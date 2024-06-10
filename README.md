@@ -1,4 +1,5 @@
-# **KENNET SHOPPING** 
+
+# **KENNET SHOPPING** ![Kennet Shopping logo](assets/favicon/favicon-32x32.png) 
 
 
 
@@ -13,7 +14,7 @@
 <hr>
 <br>
 Kennet Shopping introduction paragraph...
-
+<br>
 <br>
 
 <p align="center">
