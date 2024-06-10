@@ -16,7 +16,9 @@ Kennet Shopping introduction paragraph...
 
 <br>
 
-
+<p align="center">
+<img src ="assets/images/am-i-responsive-placeholder-image.JPG" width="auto" height="auto" alt="AmIResponsive placeholder image showing the following viewports: desktop, laptop, tablet, mobile">
+</p>
 
 # Table of Contents
 
