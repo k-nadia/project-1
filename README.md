@@ -40,9 +40,10 @@ Kennet Shopping introduction paragraph...
 	- [Languages Used](#languages-used)
 	- [Frameworks, Libraries & Programs Used ](frameworks-libraries-and-programs-used)
 - [CREDITS](#credits)
-    - [Image Credits](#image-credits)
-	- [Media Credits](#media-credits)
-    - [Content Credits](#content-credits)
+	- [Content Sources & Generators](#content-sources-and-generators)
+    - [Image Sources](#images-sources)
+	- [Media Sources](#media-sources)
+    
 
 <br>
 
@@ -111,17 +112,17 @@ Kennet Shopping introduction paragraph...
 
 - [![W3C Markup Validator](https://img.shields.io/badge/W3C_Markup_Validator-grey?logo=html5&logoColor=white)](https://validator.w3.org/#validate_by_input) - The W3C Markup Validator is a tool used to check the validity and syntax of HTML code, ensuring compliance with web standards set by the World Wide Web Consortium (W3C). Import my html for validation.
 
-- [![Lighthouse](https://img.shields.io/badge/Lighthouse-grey?logo=google-chrome&logoColor=red)](https://developer.chrome.com/docs/lighthouse)- an open-source tool used for auditing web page quality, including performance, accessibility, SEO, and cross-browser testing. Check for validation.
+- [![Lighthouse](https://img.shields.io/badge/Lighthouse-grey?logo=google-chrome&logoColor=red)](https://developer.chrome.com/docs/lighthouse)- An open-source tool used for auditing web page quality, including performance, accessibility, SEO, and cross-browser testing. Check for validation.
 
 ## **CREDITS**
+
+### **Content Sources & Generators**
+-  [![Favicon.io](https://img.shields.io/badge/Favicon.io-grey?)](https://favicon.io/) - A favicon.ico icon tool used to generate or download favicon icons in all required sizes. Favicon.io was used to generate favicon.ico file from the Kennet logo JPEG image.
 
 ### **Image Credits**
 - Image credits here...
 
 ### **Media Credits**
 - Media credits here...
-
-### **Content Credits**
-- Content credits here...
 
 <br>
