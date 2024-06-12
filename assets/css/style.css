@@ -1,3 +1,12 @@
+/* GOOGLE FONTS IMPORT */
+
+/* BARLOW CONDENSED - FONT FAMILY */
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500;1,600&display=swap');
+
+/* MONTSERRAT - FONT FAMILY */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
 /* UNIVERSAL SELECTOR USED TO OVERRIDE DEFAULT STYLES */
 * {
     padding: 0;
@@ -33,5 +42,25 @@ main {
 /* FOOTER */
 footer {
     background-color: aqua;
-
 }
+
+/* H1 FONT TEST */
+  h1 { 
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+  /* P FONT TEST */
+  p {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  
+ 
+  
+
+  
