@@ -55,6 +55,10 @@ Kennet Shopping introduction paragraph...
 
 ### **Colours**
 
+![LogoColourPicker](assets/images/coolers-color-picker-screenshot-kennet-logo.png)
+
+![ColourPalette](assets/images/coolers-color-palette.png)
+
 ### **Typography**
 
 All fonts used throughout the application were sourced from [Google Fonts](https://fonts.google.com/).
