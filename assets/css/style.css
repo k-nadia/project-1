@@ -5,6 +5,20 @@
     box-sizing: border-box;
 }
 
+/* GENERAL STYLES */
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    /* GENERIC PROJECT STYLES */
+    color: #272325;
+}
+
+header, main, footer {
+    flex-shrink: 0;
+}
+
 /* HEADER */
 header {
     background-color: aqua;
@@ -13,9 +27,11 @@ header {
 /* MAIN CONTENT */
 main { 
     background-color:moccasin;
+    flex-grow: 1;
 }
 
 /* FOOTER */
 footer {
-    background-color: aqua
+    background-color: aqua;
+
 }
