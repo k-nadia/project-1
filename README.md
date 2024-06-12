@@ -57,6 +57,25 @@ Kennet Shopping introduction paragraph...
 
 ### **Typography**
 
+All fonts used throughout the application were sourced from [Google Fonts](https://fonts.google.com/).
+
+#### **'Barlow Condensed' Font**
+- Used for: headings
+- Font family information paragraph...
+<br><br>
+
+![BarlowCondensedFont](assets/images/google-fonts-barlow-condensed-sample-screenshot.png)
+<br><br>
+
+
+#### **'Montserrat' Font**
+- Used for: all other text within application
+-  Font family information paragraph...
+<br><br>
+
+![MontserratFont](assets/images/google-fonts-montserrat-sample-screenshot.png)
+<br><br>
+
 
 <hr>
 
