@@ -55,7 +55,7 @@ Kennet Shopping introduction paragraph...
 
 ### **Colours**
 
-![ColourPicker-Logo](assets/images/coolers-color-palette-screenshot-kennet-logo.png)
+![ColourPicker-Logo](assets/images/color-picker-screenshot-logo.png)
 
 ![ColourPalette](assets/images/coolers-color-palette.png)
 
