@@ -23,24 +23,24 @@ Kennet Shopping introduction paragraph...
 
 # Table of Contents
 
-- [DESIGN](#design)
+- [Design](#design)
 	- [Colours](#colours)
     - [Typography](#typography)
 - [UX / UI](#UX/UI)
 	- [User Stories](#user-stories)
 	- [Wireframes](#wireframes)
-- [FEATURES](#features)
+- [Features](#features)
 	- [Navigation](#navigation)
 	- [Footer](#footer)
 	- [Home Page](#home-page)
-- [TESTING](#testing)
+- [Testing](#testing)
     - [Validator Testing](#validator-testing)
     - [Unfixed Bugs](#unfixed-bugs)
-- [DEPLOYMENT](#deployment)
-- [TECHNOLOGIES USED](#technologies-used)
+- [Deployment](#deployment)
+- [Technologies Used](#technologies-used)
 	- [Languages Used](#languages-used)
 	- [Frameworks, Libraries & Programs Used ](frameworks-libraries-and-programs-used)
-- [CREDITS](#credits)
+- [Credits](#credits)
 	- [Content Sources & Generators](#content-sources-and-generators)
     - [Image Sources](#images-sources)
 	- [Media Sources](#media-sources)
@@ -69,7 +69,7 @@ All fonts used throughout the application were sourced from [Google Fonts](https
 
 #### **'Barlow Condensed' Font**
 - Used for: headings
-- Font family information paragraph...
+- I chose to use Barlow Condensed in all capital letters for headings  because the font lends a bold, dynamic presence that stands out, drawing visitors' eyes to important information effortlessly. The condensed nature of this font maximizes space efficiency without sacrificing readability, making it perfect for mobile and desktop views alike. Its clean, streamlined appearance complements a contemporary aesthetic, conveying the modern, lively vibe that Kennet Shopping aims to project. 
 <br><br>
 
 ![BarlowCondensedFont](assets/images/google-fonts-barlow-condensed-sample-screenshot.png)
@@ -78,7 +78,7 @@ All fonts used throughout the application were sourced from [Google Fonts](https
 
 #### **'Montserrat' Font**
 - Used for: all other text within application
--  Font family information paragraph...
+-  The minimalist typeface of the Montserrat font family provides a blend of modernity and accessibility that appeals to a broad demographic of users to the Kennet Shopping site. This sans-serif font family exudes a clean, contemporary aesthetic and its geometric simplicity and balanced letterforms are visually appealing, evoking a sense of fun and dynamism. Montserrat's design also ensures high readability, with distinct characters and ample spacing that enhance legibility, particularly for users with vision issues. This makes it an accessible choice that maintains a high contrast level against various backgrounds, ensuring that information is clear and easy to read for everyone. 
 <br><br>
 
 ![MontserratFont](assets/images/google-fonts-montserrat-sample-screenshot.png)
@@ -162,6 +162,10 @@ As a developer:
 
 ### **Content Sources & Generators**
 -  [![Favicon.io](https://img.shields.io/badge/Favicon.io-grey?)](https://favicon.io/) - A favicon.ico icon tool used to generate or download favicon icons in all required sizes. Favicon.io was used to generate favicon.ico file from the Kennet logo JPEG image.
+
+- [![Coolors Color Palette](https://img.shields.io/badge/Coolors%20Color%20Palette-grey?)](https://coolors.co/) - Coolors.co is a online colour palette generator used to visualise and create colour schemes. In this project Coolors was used to pick colours from the Kennet logo and site photo and create a colour palette that reflected the Kennet Shopping ethos and target audience.
+
+- [![Google Fonts](https://img.shields.io/badge/Google_Fonts-grey?logo=google-fonts&logoColor=white)](https://fonts.google.com/) - Google Fonts is a library of free, open-source fonts available to enhance web design. Google Fonts was used to import all fonts used in the project.
 
 ### **Image Credits**
 - Image credits here...
