@@ -55,11 +55,53 @@ Kennet Shopping introduction paragraph...
 
 ### **Colours**
 
+### **Colour Palette Selection Journey**
+
+#### **Stage 1 - Initial Colour Palette Ideas**
+
+When first considering the Kennet Shopping website colour palette, I decided to start by analysing the colours of the actual existing logo of Kennet Shopping, located in Newbury, Berkshire. The design of the Kennet Shopping logo reportedly draws its inspiration from racing silks, which explains the logo's bold patterned squares and likely relates to the longstanding racing heritage of the market town.
+
+The Coolors.co colour picker tool was used to determine all the hex colours in the logo and show many various combinations of colours for use in the website colour palette.
+
+<br>
+
 ![ColourPicker-Logo](assets/images/color-picker-screenshot-logo.png)
+
+#### **Stage 2 - Preliminary Colour Palette Ideas**
+
+The initial colour palette was derived using the colour picker tool from Coolors.co, selecting colours directly from the Kennet Shopping logo. This provided a foundational scheme with the following hex codes: #000000 (Black), #FFFFFF (White), #E08226 (Orange), #A12F84 (Purple), and #303086 (Dark Blue). 
+
+The black and white elements were chosen for their modern, high-contrast appeal, ensuring readability and a sleek, contemporary feel. The orange (#E08226) and purple (#A12F84) introduced vibrant, energetic tones, adding a sense of fun and excitement to the website. These complementary colours create a dynamic and engaging user experience, ideal for attracting a diverse range of shoppers to the center. 
+
+<br>
 
 ![ColourPalette](assets/images/coolers-color-palette.png)
 
+#### **Stage 3 - Incorporating An Accent Colour**
+
+Recognizing the need for an additional highlight colour to enhance the visual appeal, the colour picker tool was used again to select an electric blue (#66E6E6) from the photo below which shows exterior cladding of the Kennet Shopping Centre north entrance on Bartholomew street, a sight familiar to all visitors of the centre. 
+
+This colour was intended to maintain aesthetic consistency with the shopping centre's exterior while introducing a lighter, more vibrant shade to the palette. The electric blue serves as a perfect accent colour, adding brightness and a sense of freshness to the website. This vibrant tone not only grabs attention but also enhances the overall energy and appeal of the site's design, making it more engaging for users.
+
+<br>
+
 ![ColourPicker-SitePhoto](assets/images/coolers-color-picker-screenshot-kennet-exterior.png)
+
+#### **Stage 4 - Final Colour Palette Selection**
+
+The final color palette for the Kennet Shopping Centre website includes #000000 (Black), #FFFFFF (White), #E08226 (Orange), #A12F84 (Purple), #303086 (Dark Blue), and the newly added #66E6E6 (Electric Blue).
+
+- Monochromatic black (#000000) and white (#FFFFF) were selected to as a means to juxtapose the brightly coloured hues of the palette and echo the sentiment that Kennet Shopping offers something for everyone, adults and children alike. As a colour palette, this contrasting combination is both highly evocative to users and offers ease of use and functionality from a user experience perspective.
+
+- The dark blue (#303086) was chosen to symbolize the Kennet & Avon Canal, an integral part of Newbury's heritage, grounding the design in the local context. 
+
+- The vibrant orange (#E08226) and purple (#A12F84) continue to convey a sense of fun and modernity, appealing to a wide audience. 
+
+- The addition of electric blue not only enhances the visual hierarchy but also ensures high contrast, making the website accessible to users with impaired vision. 
+
+This carefully curated palette effectively combines heritage with vibrancy, creating an inviting and inclusive digital experience that reflects the lively spirit of the Kennet Shopping Centre.
+
+<br>
 
 ![ColourPaletteFinalEdit](assets/images/color-palette-final-edit.png)
 
