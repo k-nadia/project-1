@@ -159,6 +159,8 @@ As a developer:
 
 ![MobileWireframeHomePage](assets/images/mobile-wireframe-homepage.png)
 
+![MobileWireframe](assets/images/mobile-wireframe.JPG)
+
 <hr>
 
 ## **FEATURES**
