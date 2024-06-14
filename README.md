@@ -153,7 +153,7 @@ As a developer:
 
 <br>
 
-![DesktopWireframe](assets/images/desktop-wireframe.png)
+![DesktopWireframeHomePage](assets/images/desktop-wireframe-homepage.png)
 
 <hr>
 
