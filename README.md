@@ -151,6 +151,9 @@ As a developer:
 
 ### **Wireframes**
 
+<br>
+
+![DesktopWireframe](assets/images/desktop-wireframe.png)
 
 <hr>
 
