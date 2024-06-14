@@ -155,6 +155,10 @@ As a developer:
 
 ![DesktopWireframeHomePage](assets/images/desktop-wireframe-homepage.png)
 
+<br>
+
+![MobileWireframeHomePage](assets/images/mobile-wireframe-homepage.png)
+
 <hr>
 
 ## **FEATURES**
