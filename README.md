@@ -157,9 +157,9 @@ As a developer:
 
 <br>
 
-![MobileWireframeHomePage](assets/images/mobile-wireframe-homepage.png)
-
 ![MobileWireframe](assets/images/mobile-wireframe.JPG)
+
+<br>
 
 <hr>
 
