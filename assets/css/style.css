@@ -22,6 +22,7 @@ body {
     align-items: stretch;
     /* GENERIC PROJECT STYLES */
     color: #272325;
+    font-family: 'Montserrat', sans-serif;
 }
 
 header, main, footer {
