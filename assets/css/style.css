@@ -40,6 +40,8 @@ header {
 
 ul {
     list-style-type: none;
+    font-size: 110%;
+    letter-spacing: 1px;
 }
 
 a {
@@ -48,6 +50,10 @@ a {
 
 .active {
     background-color: rgb(102, 230, 230, .5)
+}
+
+#logo {
+    font-size: 300%;
 }
 
 /* HEADER FONT STYLES */
