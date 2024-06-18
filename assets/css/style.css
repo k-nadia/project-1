@@ -75,18 +75,16 @@ a {
     text-decoration: none;
 }
 
-.active {
-    background-color: rgb(102, 230, 230, .5)
-}
-
 #logo {
     font-size: 300%;
     letter-spacing: 2px;
-    padding-right: 10px;
+    padding-right: 20px;
 }
 
-
-
+.active {
+    background-color: rgb(102, 230, 230, .5);
+    padding-right: 10px;
+}
 
 /* HEADER FONT STYLES */
 .barlow-condensed-semibold {
