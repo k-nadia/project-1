@@ -33,17 +33,43 @@ header, main, footer {
 header {
     background-color: #ffffff;
     width: 100%;
-    position: fixed;
+    position: absolute;
     padding: 0 1rem;
     z-index: 100;
     box-shadow: 0 0 0 0.1em #000000;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+/* NAV BAR STYLES */
+.nav-bar {
+    background-color: #ffffff;
+    display: flex;
+    padding: 12px;
+}
+
+.nav-bar-items {
+    display: flex;
+}
+
+.nav-bar-link {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 10px;
+    padding-left: 10px;
 }
 
 ul {
     list-style-type: none;
     font-size: 110%;
+    font-family: 'Montserrat', sans-serif;
     letter-spacing: 1px;
     padding: 1rem 0;
+}
+
+li {
+    justify-content: space-between
 }
 
 a {
@@ -56,7 +82,12 @@ a {
 
 #logo {
     font-size: 300%;
+    letter-spacing: 1px;
+    padding-right: 10px;
 }
+
+
+
 
 /* HEADER FONT STYLES */
 .barlow-condensed-semibold {
@@ -64,6 +95,8 @@ a {
     font-weight: 600;
     font-style: normal;
   }
+  
+
 
 /* MAIN CONTENT */
 main { 
