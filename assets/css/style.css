@@ -54,6 +54,7 @@ header {
 
 .nav-bar-link {
     display: flex;
+    color: #000000;
     justify-content: space-between;
     padding-right: 10px;
     padding-left: 10px;
@@ -61,6 +62,7 @@ header {
 
 ul {
     list-style-type: none;
+    color: #000000;
     font-size: 110%;
     font-family: 'Montserrat', sans-serif;
     letter-spacing: 1px;
