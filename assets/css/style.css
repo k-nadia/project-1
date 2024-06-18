@@ -1,11 +1,10 @@
 /* GOOGLE FONTS IMPORT */
 
 /* BARLOW CONDENSED - FONT FAMILY */
-@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500;1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600&display=swap');
 
 /* MONTSERRAT - FONT FAMILY */
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
 /* UNIVERSAL SELECTOR USED TO OVERRIDE DEFAULT STYLES */
 * {
@@ -82,7 +81,7 @@ a {
 
 #logo {
     font-size: 300%;
-    letter-spacing: 1px;
+    letter-spacing: 2px;
     padding-right: 10px;
 }
 
