@@ -24,24 +24,29 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+/* HEADER FONT STYLES */
+.barlow-condensed-semibold {
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
 /* P FONT TEST */
 p {
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
-}
+} 
 
-header,
-main,
-footer {
+header, main, footer {
     flex-shrink: 0;
 }
 
 /* HEADER */
 header {
     background-color: #ffffff;
-    padding: 0 1rem;
+    padding: 0.5em 1rem;
     position: fixed;
     z-index: 100;
     width: 100%;
@@ -59,10 +64,15 @@ h1 {
     font-style: normal;
     letter-spacing: 2px;
     color: #000000;
+    margin-top: 5px;
+}
+
+#logo img {
+    margin-right: 8px;
 }
 
 #menu {
-    font-size: 100%;
+    font-size: 110%;
     letter-spacing: 4px;
     list-style-type: none;
 }
@@ -72,6 +82,11 @@ h1 {
 }
 
 /* NAV BAR STYLES */
+
+.active {
+    background-color: rgb(102, 230, 230, .5);
+    padding-right: 10px;
+}
 
 ul {
     list-style-type: none;
@@ -88,25 +103,6 @@ li {
 
 a {
     text-decoration: none;
-}
-
-#logo {
-    color: #000000;
-    font-size: 300%;
-    letter-spacing: 2px;
-    padding-right: 20px;
-}
-
-.active {
-    background-color: rgb(102, 230, 230, .5);
-    padding-right: 10px;
-}
-
-/* HEADER FONT STYLES */
-.barlow-condensed-semibold {
-    font-family: "Barlow Condensed", sans-serif;
-    font-weight: 600;
-    font-style: normal;
 }
 
 /* MAIN CONTENT */
