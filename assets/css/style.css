@@ -107,6 +107,10 @@ nav {
     display: none;
 }
 
+.nav-toggle-label {
+    font-size: 1.75rem;
+}
+
 li {
     justify-content: space-between
 }
