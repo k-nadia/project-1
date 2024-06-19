@@ -64,10 +64,11 @@ h1 {
     font-family: "Barlow Condensed", sans-serif;
     font-weight: 600;
     font-style: normal;
-    font-size: 2.1em;
-    letter-spacing: 1px;
+    font-size: 2em;
+    letter-spacing: 0.5px;
     color: #000000;
     margin-top: 5px;
+    margin-right: 0.1em;
 }
 
 #menu {
