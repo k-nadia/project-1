@@ -51,6 +51,8 @@ header {
     z-index: 100;
     width: 100%;
     box-shadow: 0 0 0 0.1em #000000;
+    display: flex;
+    justify-content: space-evenly;
 }
 
 header a {
@@ -62,13 +64,9 @@ h1 {
     font-family: "Barlow Condensed", sans-serif;
     font-weight: 600;
     font-style: normal;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
     color: #000000;
     margin-top: 5px;
-}
-
-#logo img {
-    margin-right: 8px;
 }
 
 #menu {
