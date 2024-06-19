@@ -123,6 +123,7 @@ a {
 main {
     background-color: moccasin;
     flex-grow: 1;
+    margin-top: 61px;
 }
 
 /* FOOTER */
