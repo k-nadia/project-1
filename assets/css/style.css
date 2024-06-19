@@ -24,41 +24,54 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
-header, main, footer {
+/* P FONT TEST */
+p {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+header,
+main,
+footer {
     flex-shrink: 0;
 }
 
 /* HEADER */
 header {
     background-color: #ffffff;
-    width: 100%;
-    position: absolute;
     padding: 0 1rem;
+    position: fixed;
     z-index: 100;
+    width: 100%;
     box-shadow: 0 0 0 0.1em #000000;
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
+}
+
+header a {
+    text-decoration: none;
+    color: inherit;
+}
+
+h1 {
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: 2px;
+    color: #000000;
+}
+
+#menu {
+    font-size: 100%;
+    letter-spacing: 4px;
+    list-style-type: none;
+}
+
+#menu>li {
+    margin-bottom: 1em;
 }
 
 /* NAV BAR STYLES */
-.nav-bar {
-    background-color: #ffffff;
-    display: flex;
-    padding: 12px;
-}
-
-.nav-bar-items {
-    display: flex;
-}
-
-.nav-bar-link {
-    display: flex;
-    color: #000000;
-    justify-content: space-between;
-    padding-right: 10px;
-    padding-left: 10px;
-}
 
 ul {
     list-style-type: none;
@@ -94,13 +107,11 @@ a {
     font-family: "Barlow Condensed", sans-serif;
     font-weight: 600;
     font-style: normal;
-  }
-  
-
+}
 
 /* MAIN CONTENT */
-main { 
-    background-color:moccasin;
+main {
+    background-color: moccasin;
     flex-grow: 1;
 }
 
@@ -108,24 +119,3 @@ main {
 footer {
     background-color: aqua;
 }
-
-/* H1 FONT TEST */
-  h1 { 
-    font-family: "Barlow Condensed", sans-serif;
-    font-weight: 500;
-    font-style: normal;
-  }
-
-  /* P FONT TEST */
-  p {
-    font-family: "Montserrat", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 400;
-    font-style: normal;
-  }
-  
-  
- 
-  
-
-  
