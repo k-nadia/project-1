@@ -96,6 +96,12 @@ nav {
     display: none;
 }
 
+/* NAV BAR TOGGLE FUNCTION */
+
+#nav-toggle:checked~nav {
+    display: block;
+}
+
 li {
     justify-content: space-between
 }
