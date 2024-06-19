@@ -218,6 +218,8 @@ As a developer:
 
 - [![Google Fonts](https://img.shields.io/badge/Google_Fonts-grey?logo=google-fonts&logoColor=white)](https://fonts.google.com/) - Google Fonts is a library of free, open-source fonts available to enhance web design. Google Fonts was used to import all fonts used in the project.
 
+- [![Font Awesome](https://img.shields.io/badge/Coolors%20Color%20Palette-grey?)](https://fontawesome.com/) - Font Awesome is an icon library and toolkit. Font Awesome was used to source all icons used in this project.
+
 ### **Image Credits**
 - Image credits here...
 
