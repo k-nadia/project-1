@@ -153,13 +153,11 @@ As a developer:
 
 <br>
 
-![DesktopWireframeHomePage](assets/images/desktop-wireframe.png)
-
-<br>
-
 ![MobileWireframe](assets/images/mobile-wireframe.JPG)
 
 <br>
+
+![DesktopWireframeHomePage](assets/images/desktop-wireframe.png)
 
 <hr>
 
