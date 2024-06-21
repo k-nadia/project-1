@@ -136,9 +136,19 @@ main {
 /* FOOTER */
 footer {
     background-color: #e0882680;
+    padding: 0.5em 1rem;
 
     /* SOCIAL MEDIA LINKS */
-    
+    #socials {
+        display: flex;
+        justify-content: space-evenly;
+        list-style-type: none;
+    }
+
+    #socials a {
+        color: #000000;
+        font-size: 2em;
+    }
 }
 
 /* MEDIA QUERY - TABLET SCREENS (768px and larger) */
