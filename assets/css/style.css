@@ -151,10 +151,20 @@ footer {
     }
 }
 
+/* MEDIA QUERY - MOBILE SCREENS (max width 767px) */
+@media screen and (max-width:767px) {
+    
+    header {
+        position: relative;
+        justify-content: center;
+        z-index: 100;
+    }
+}
+
 /* MEDIA QUERY - TABLET SCREENS (768px and larger) */
 @media screen and (min-width:768px) {
 
-    header {
+    .sticky-header {
         position: sticky;
         justify-content: center;
         top: 0;
