@@ -46,7 +46,7 @@ header, main, footer {
 /* HEADER */
 header {
     background-color: #ffffff;
-    padding: 0.5em 1rem;
+    /* padding: 0.1em 0.2rem; */
     position: fixed;
     z-index: 99;
     width: 100%;
@@ -157,7 +157,7 @@ footer {
     header {
         position: relative;
         justify-content: center;
-        padding: 1em;
+        padding: 0.2em;
     }
 
     header h1 {
