@@ -86,7 +86,6 @@ h1 {
 
 .active {
     background-color: rgb(224, 136, 38, .5);
-    padding-right: 10px;
 }
 
 nav {
@@ -139,7 +138,7 @@ footer {
     background-color: aqua;
 }
 
-/* MEDIA QUERY - TABLETS (768px and larger) */
+/* MEDIA QUERY - LAPTOPS & DESKTOPS (768px and larger) */
 @media screen and (min-width:768px) {
 
     header {
@@ -172,4 +171,19 @@ footer {
         display: flex; 
         padding: 0 1em;
     }
+
+     /* HIGHLIGHT NAV BAR LINKS WHEN HOVERED OVER */
+     #menu a:hover {
+        background-color: rgb(224, 136, 38, .5);
+    }
 }
+
+/* MEDIA QUERY - LAPTOPS & DESKTOPS (992px and larger) */
+@media screen and (min-width:992px) {
+
+    /* HIGHLIGHT NAV BAR LINKS WHEN HOVERED OVER 
+    #menu a:hover {
+        background-color: rgb(224, 136, 38, .5);
+    }
+}
+    */
