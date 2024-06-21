@@ -85,7 +85,7 @@ h1 {
 /* NAV BAR STYLES */
 
 .active {
-    background-color: rgb(224, 136, 38, .5);
+    background-color: #e0882680;
 }
 
 nav {
@@ -135,10 +135,10 @@ main {
 
 /* FOOTER */
 footer {
-    background-color: aqua;
+    background-color: #e0882680;
 }
 
-/* MEDIA QUERY - LAPTOPS & DESKTOPS (768px and larger) */
+/* MEDIA QUERY - TABLET SCREENS (768px and larger) */
 @media screen and (min-width:768px) {
 
     header {
@@ -174,16 +174,9 @@ footer {
 
      /* HIGHLIGHT NAV BAR LINKS WHEN HOVERED OVER */
      #menu a:hover {
-        background-color: rgb(224, 136, 38, .5);
+        background-color: #e0882660;
     }
 }
 
-/* MEDIA QUERY - LAPTOPS & DESKTOPS (992px and larger) */
-@media screen and (min-width:992px) {
-
-    /* HIGHLIGHT NAV BAR LINKS WHEN HOVERED OVER 
-    #menu a:hover {
-        background-color: rgb(224, 136, 38, .5);
-    }
-}
-    */
+/* MEDIA QUERY - LAPTOPS & DESKTOPS (992px and larger) 
+@media screen and (min-width:992px) */
