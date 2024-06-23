@@ -130,7 +130,14 @@ a {
 main {
     background-color: #ffffff;
     flex-grow: 1;
-    margin-top: 61px;
+    margin-top: 20px;
+}
+
+/* HERO SECTION */
+#hero-section {
+    height: 600px;
+    width: 100%;
+    background-color: #FCE8BA;
 }
 
 /* FOOTER */
