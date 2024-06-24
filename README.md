@@ -230,6 +230,8 @@ As a developer:
 
 - [![Lighthouse](https://img.shields.io/badge/Lighthouse-grey?logo=google-chrome&logoColor=red)](https://developer.chrome.com/docs/lighthouse)- An open-source tool used for auditing web page quality, including performance, accessibility, SEO, and cross-browser testing. Check for validation.
 
+- [![Optimole](https://img.shields.io/badge/Optimizilla-grey?)](https://optimole.com/image-compressor/) - Optimole is an online image optimizer tool which reduces file size without losing image quality. This tool was used to optimize all images within the project for web.
+
 ## **CREDITS**
 
 ### **Content Sources & Generators**
