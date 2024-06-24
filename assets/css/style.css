@@ -155,6 +155,10 @@ main {
     display: flex;
 }
 
+.three-equal-columns p {
+    font-size: 1em;
+}
+
 /* FOOTER */
 footer {
     margin-top: auto;
