@@ -130,7 +130,7 @@ a {
 /* MAIN CONTENT */
 main {
     background-color: #ffffff;
-    flex-grow: 1;
+    flex-grow: 0;
     margin-top: 2px;
 }
 
@@ -157,6 +157,7 @@ main {
 
 /* FOOTER */
 footer {
+    margin-top: auto;
     background-color: #e0882680;
     padding: 0.5em 1rem;
 
