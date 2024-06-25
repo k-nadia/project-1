@@ -197,6 +197,7 @@ As a developer:
 | Homepage - Main	| 'Shop' icon (Column 1 section)  		  | Click on icon	                               | Redirects user to 'Shop' page                      | Pass   |
 | Homepage - Main	| 'Visit' H2 heading (Column 2 section)   | Click on H2 text                               | Redirects user to 'Visit' page                     | Pass   |
 | Homepage - Main	| 'Visit' location icon (Column 2 section)| Click on icon	                               | Redirects user to 'Visit' page                     | Pass   |
+| Homepage - Main	| 'Contact Us' H2 heading (Column 3 section)   | Click on H2 text                          | Redirects user to 'Contact Us' page                | Pass   |
 | 'Contact Us' page | Contact form                            | Enter required form details and click 'Submit' | Opens confirmation message page in a new tab       |        |
 | Footer            | Facebook Socials Icon                   | Click on icon                                  | Open Facebook page in a new tab                    | Pass   |
 | Footer            | Instagram Socials Icon                  | Click on icon                                  | Open Instagram page in a new tab                   | Pass   |
