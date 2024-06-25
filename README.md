@@ -179,7 +179,7 @@ As a developer:
 
 ### **General Site Testing**
 | Page   | Section           | Page Element                                   | Action (if applicable)                         | Expected Outcome                                   | Result |
-|--------|-------------------|------------------------------------------------|------------------------------------------------|----------------------------------------------------|--------|
+|:------:|:-----------------:|:----------------------------------------------:|:----------------------------------------------:|:--------------------------------------------------:|:------:|
 | All    | Header            | Kennet Shopping logo                 	  	  | Click on logo                                  | Redirects user to Home Page                        | Pass   |
 | All    | Header            | Nav menu (mobile screens up to 767px)          | N/A                                            | Displays burger nav icon on right side of nav menu | Pass   |
 | All    | Header            | Nav menu (mobile screens up to 767px)   | Click on burger icon                           | Toggles drop down nav menu                         | Pass       |
