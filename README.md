@@ -178,34 +178,33 @@ As a developer:
 ## **TESTING**
 
 ### **General Site Testing**
-| Section           | Page Element                            | Action (if applicable)                         | Expected Outcome                                   | Result |
-|-------------------|-----------------------------------------|------------------------------------------------|----------------------------------------------------|--------|
-| Header            | Kennet Shopping logo                    | Click on logo                                  | Redirects user to Home Page                        | Pass   |
-| Header            | Nav menu (mobile screens up to 767px)   | N/A                                            | Displays burger nav icon on right side of nav menu | Pass       |
-| Header            | Nav menu (mobile screens up to 767px)   | Click on burger icon                           | Toggles drop down nav menu                         | Pass       |
-| Header            | Nav menu (table screens 768 - 991px)    | N/A                                            | Displays nav menu with center alignment            | Pass       |
-| Header            | Nav menu (desktop screens 992px and up) | N/A                                            | Displays nav menu with center alignment            |  Pass      |
-| Header          	| Sticky header                           |   Page scroll                                  | Header sticks to top of page when user scrolls down the page, remaining visible   | Pass        |
-| Header nav menu   | Nav menu page links                     | Hover over nav menu link                       | Highlights nav menu link in #E08226 (Orange)        | Pass   |
-| Header nav menu   | Active page                             | N/A                                            | Active page highlighted in #E08226 (Orange)        | Pass   |
-| Header nav menu   | 'Home'                                  | Click on link                                  | Redirects user to 'Home' page                      | Pass   |
-| Header nav menu   | 'Shop'                                  | Click on link                                  | Redirects user to 'Shop' page                      | Pass   |
-| Header nav menu   | 'Visit'                                 | Click on link                                  | Redirects user to 'Visit' page                     | Pass   |
-| Header nav menu   | 'Contact Us'                            | Click on link                                  | Redirects user to 'Contact us' page                | Pass   |
-| Homepage - Main   | Hero image                              | N/A                                            | Adjusts responsively according to user screen size | Pass       |
-| Homepage - Main	| 'Shop' H2 heading (Column 1 section)    | Click on H2 text                               | Redirects user to 'Shop' page                      | Pass   |
-| Homepage - Main	| 'Shop' icon (Column 1 section)  		  | Click on icon	                               | Redirects user to 'Shop' page                      | Pass   |
-| Homepage - Main	| 'Visit' H2 heading (Column 2 section)   | Click on H2 text                               | Redirects user to 'Visit' page                     | Pass   |
-| Homepage - Main	| 'Visit' location icon (Column 2 section)| Click on icon	                               | Redirects user to 'Visit' page                     | Pass   |
-| Homepage - Main	| 'Contact Us' H2 heading (Column 3 section)   | Click on H2 text                          | Redirects user to 'Contact Us' page                | Pass   |
-| Homepage - Main	| 'Contact Us' envelope icon (Column 3 section)| Click on icon	                           | Redirects user to 'Contact Us' page                | Pass   |
-| 'Contact Us' page | Contact form                            | Enter required form details and click 'Submit' | Opens confirmation message page in a new tab       |        |
-| Footer            | Facebook Socials Icon                   | Click on icon                                  | Open Facebook page in a new tab                    | Pass   |
-| Footer            | Instagram Socials Icon                  | Click on icon                                  | Open Instagram page in a new tab                   | Pass   |
-| Footer            | X / Twitter Socials Icon                | Click on icon                                  | Open x / Twitter in a new tab                      | Pass   |
-|                   |                                         |                                                |                                                    |        |
-|                   |                                         |                                                |                                                    |        |
-|                   |                                         |                                                |                                                    |        |
+| Page   | Section           | Page Element                                   | Action (if applicable)                         | Expected Outcome                                   | Result |
+|--------|-------------------|------------------------------------------------|------------------------------------------------|----------------------------------------------------|--------|
+| All    | Header            | Kennet Shopping logo                 	  	  | Click on logo                                  | Redirects user to Home Page                        | Pass   |
+| All    | Header            | Nav menu (mobile screens up to 767px)          | N/A                                            | Displays burger nav icon on right side of nav menu | Pass   |
+| All    | Header            | Nav menu (mobile screens up to 767px)   | Click on burger icon                           | Toggles drop down nav menu                         | Pass       |
+| All    | Header            | Nav menu (table screens 768 - 991px)    | N/A                                            | Displays nav menu with center alignment            | Pass       |
+| All    | Header            | Nav menu (desktop screens 992px and up) | N/A                                            | Displays nav menu with center alignment            |  Pass      |
+| All    | Header          	| Sticky header                           |   Page scroll                                  | Header sticks to top of page when user scrolls down the page, remaining visible   | Pass        |
+| All    | Header nav menu   | Nav menu page links                     | Hover over nav menu link                       | Highlights nav menu link in #E08226 (Orange)        | Pass   |
+| All    | Header nav menu   | Active page                             | N/A                                            | Active page highlighted in #E08226 (Orange)        | Pass   |
+| All    | Header nav menu   | 'Home'                                  | Click on link                                  | Redirects user to 'Home' page                      | Pass   |
+| All    | Header nav menu   | 'Shop'                                  | Click on link                                  | Redirects user to 'Shop' page                      | Pass   |
+| All    | Header nav menu   | 'Visit'                                 | Click on link                                  | Redirects user to 'Visit' page                     | Pass   |
+| All    | Header nav menu   | 'Contact Us'                            | Click on link                                  | Redirects user to 'Contact us' page                | Pass   |
+| Home   |  Main             | Hero image                              | N/A                                            | Adjusts responsively according to user screen size | Pass       |
+| Home   |  Main		     | 'Shop' H2 heading (Column 1 section)    | Click on H2 text                               | Redirects user to 'Shop' page                      | Pass   |
+| Home   | Main	             | 'Shop' icon (Column 1 section)  		   | Click on icon	                                | Redirects user to 'Shop' page                      | Pass   |
+| Home   |  Main	         | 'Visit' H2 heading (Column 2 section)   | Click on H2 text                               | Redirects user to 'Visit' page                     | Pass   |
+| Home   |  Main	         | 'Visit' location icon (Column 2 section)| Click on icon	                                | Redirects user to 'Visit' page                     | Pass   |
+| Home   |  Main             | 'Contact Us' H2 heading (Column 3 section)   | Click on H2 text                          | Redirects user to 'Contact Us' page                | Pass   |
+| Home   |  Main	         | 'Contact Us' envelope icon (Column 3 section)| Click on icon	                            | Redirects user to 'Contact Us' page                | Pass   |
+| Contact Us| Main			 | Contact form                            | Enter required form details and click 'Submit' | Opens confirmation message page in a new tab       |        |
+| All	 | Footer            | Facebook Socials Icon                   | Click on icon                                  | Open Facebook page in a new tab                    | Pass   |
+| All	 | Footer            | Instagram Socials Icon                  | Click on icon                                  | Open Instagram page in a new tab                   | Pass   |
+| All	 | Footer            | X / Twitter Socials Icon                | Click on icon                                  | Open x / Twitter in a new tab                      | Pass   |
+|        |                   |                                         |                                                |                                                    |        |
+
 ### **Validator Testing**
 - HTML - 
 - CSS -
