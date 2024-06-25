@@ -157,6 +157,10 @@ As a developer:
 
 <br>
 
+![TabletWireframe](assets/images/tablet-wireframe.png)
+
+<br>
+
 ![DesktopWireframeHomePage](assets/images/desktop-wireframe.png)
 
 <hr>
