@@ -195,6 +195,7 @@ As a developer:
 | Homepage - Main   | Hero image                              | N/A                                            | Adjusts responsively according to user screen size | Pass       |
 | Homepage - Main	| 'Shop' H2 heading (Column 1 section)    | Click on H2 text                               | Redirects user to 'Shop' page                      | Pass   |
 | Homepage - Main	| 'Shop' icon (Column 1 section)  		  | Click on icon	                               | Redirects user to 'Shop' page                      | Pass   |
+| Homepage - Main	| 'Visit' H2 heading (Column 2 section)   | Click on H2 text                               | Redirects user to 'Visit' page                     | Pass   |
 | 'Contact Us' page | Contact form                            | Enter required form details and click 'Submit' | Opens confirmation message page in a new tab       |        |
 | Footer            | Facebook Socials Icon                   | Click on icon                                  | Open Facebook page in a new tab                    | Pass   |
 | Footer            | Instagram Socials Icon                  | Click on icon                                  | Open Instagram page in a new tab                   | Pass   |
