@@ -253,7 +253,14 @@ As a developer:
 - [![Font Awesome](https://img.shields.io/badge/Font%20Awesome-grey?)](https://fontawesome.com/) - Font Awesome is an icon library and toolkit. Font Awesome was used to source all icons used in this project.
 
 ### **Image Credits**
-- Image credits here...
+
+*Image Usage - Hero Image (Home Page)*
+<br>
+*Author - Sunbae Legacy*
+<br>
+*Photo Library - Pexels* 
+<br>
+*Original Photo Link - [Click Here](https://www.pexels.com/photo/boy-squating-on-white-floor-tile-891289/)*
 
 ### **Media Credits**
 - Media credits here...
