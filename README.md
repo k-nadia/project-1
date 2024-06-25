@@ -261,6 +261,8 @@ As a developer:
 *Photo Library - Pexels* 
 <br>
 *Original Photo Link - [Click Here](https://www.pexels.com/photo/boy-squating-on-white-floor-tile-891289/)*
+<br>
+![ThumbnailHeroImage](./assets/images/thumbnails/thumbnail-hero-image.png)
 
 ### **Media Credits**
 - Media credits here...
