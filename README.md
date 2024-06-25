@@ -192,7 +192,9 @@ As a developer:
 | Header nav menu   | 'Shop'                                  | Click on link                                  | Redirects user to 'Shop' page                      | Pass   |
 | Header nav menu   | 'Visit'                                 | Click on link                                  | Redirects user to 'Visit' page                     | Pass   |
 | Header nav menu   | 'Contact Us'                            | Click on link                                  | Redirects user to 'Contact us' page                | Pass   |
-| Main              | Hero image                              | N/A                                            | Adjusts responsively according to user screen size | Pass       |
+| Homepage - Main   | Hero image                              | N/A                                            | Adjusts responsively according to user screen size | Pass       |
+| Homepage - Main	| 'Shop' H2 heading (Column 1 section)    | Click on H2 text                               | Redirects user to 'Shop' page                      | Pass   |
+|                   |                                         |                                                |                                                    |        |
 | 'Contact Us' page | Contact form                            | Enter required form details and click 'Submit' | Opens confirmation message page in a new tab       |        |
 | Footer            | Facebook Socials Icon                   | Click on icon                                  | Open Facebook page in a new tab                    | Pass   |
 | Footer            | Instagram Socials Icon                  | Click on icon                                  | Open Instagram page in a new tab                   | Pass   |
