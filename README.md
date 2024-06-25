@@ -185,7 +185,8 @@ As a developer:
 | Header            | Nav menu (mobile screens up to 767px)   | Click on burger icon                           | Toggles drop down nav menu                         | Pass       |
 | Header            | Nav menu (table screens 768 - 991px)    | N/A                                            | Displays nav menu with center alignment            | Pass       |
 | Header            | Nav menu (desktop screens 992px and up) | N/A                                            | Displays nav menu with center alignment            |  Pass      |
-| Header nav menu   | Nav menu page links                     | Hover over nav menu link                       | Highlights nav menu link in #E08226 (Orage)        | Pass   |
+| Header          	| Sticky header                           |   Page scroll                                  | Header sticks to top of page when user scrolls down the page, remaining visible   | Pass        |
+| Header nav menu   | Nav menu page links                     | Hover over nav menu link                       | Highlights nav menu link in #E08226 (Orange)        | Pass   |
 | Header nav menu   | Active page                             | N/A                                            | Active page highlighted in #E08226 (Orange)        | Pass   |
 | Header nav menu   | 'Home'                                  | Click on link                                  | Redirects user to 'Home' page                      | Pass   |
 | Header nav menu   | 'Shop'                                  | Click on link                                  | Redirects user to 'Shop' page                      | Pass   |
@@ -196,7 +197,6 @@ As a developer:
 | Footer            | Facebook Socials Icon                   | Click on icon                                  | Open Facebook page in a new tab                    | Pass   |
 | Footer            | Instagram Socials Icon                  | Click on icon                                  | Open Instagram page in a new tab                   | Pass   |
 | Footer            | X / Twitter Socials Icon                | Click on icon                                  | Open x / Twitter in a new tab                      | Pass   |
-|                  |                                         |                                                |                                                    |        |
 |                   |                                         |                                                |                                                    |        |
 |                   |                                         |                                                |                                                    |        |
 |                   |                                         |                                                |                                                    |        |
