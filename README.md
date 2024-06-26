@@ -228,6 +228,13 @@ Deploy this project using the following steps:
 5. Click on 'save'.
 6. Reload the page after a few minutes and the live deployment link will be displayed at the top of the page.
 
+### **Forking Steps**
+
+Fork this project using the following steps:
+1. Open the responsitory at [Kennet Shopping Github](https://github.com/k-nadia/project-1).
+2. Select the 'Fork' button near the top of the page.
+3. After a few minutes the newly forked repository will be created under your GitHub account.
+
 <hr>
 
 ## **TECHNOLOGIES USED**
