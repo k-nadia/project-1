@@ -159,6 +159,10 @@ main {
     font-size: 0.75em;
 }
 
+.three-equal-columns a {
+    color: #000000;
+}
+
 /* EXPAND-COLLAPSE LIST (SHOP PAGE) */
 .m-d.expand-list {
 	margin: 0;
