@@ -215,7 +215,18 @@ As a developer:
 <hr>
 
 ## **DEPLOYMENT**
-- Deployment info here...
+
+This website was deployed to GitHub Pages.
+
+### **Deployment Steps**
+
+Deploy this project using the following steps:
+1. Open the responsitory at [Kennet Shopping Github](https://github.com/k-nadia/project-1).
+2. Navigate to the 'Settings' tab.
+3. Within the 'Code & Automation' section, select 'Pages'
+4. Under the 'Branch' section, select 'main' from the drop-down menu.
+5. Click on 'save'.
+6. Reload the page after a few minutes and the live deployment link will be displayed at the top of the page.
 
 <hr>
 
