@@ -235,6 +235,17 @@ Fork this project using the following steps:
 2. Select the 'Fork' button near the top of the page.
 3. After a few minutes the newly forked repository will be created under your GitHub account.
 
+### **Cloning Steps**
+
+Clone this project using the following steps:
+1. Open the responsitory at [Kennet Shopping Github](https://github.com/k-nadia/project-1).
+2. Select the green 'Code' button near the top of the page.
+3. Choose from one of the 3 cloning options: HTTPS, SSH, GitHub CLI.
+4. Click on the clipboard icon to copy the URL.
+5. Open a new GitPod terminal.
+6. Type 'git clone' and paste in the URL copied earlier.
+7. Press enter to complete the cloning process. 
+
 <hr>
 
 ## **TECHNOLOGIES USED**
