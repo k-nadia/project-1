@@ -243,7 +243,9 @@ As a developer:
 
 ## **CREDITS**
 
-### **Content Sources & Generators**
+### **Content Sources**
+
+### **Content Generators**
 -  [![Favicon.io](https://img.shields.io/badge/Favicon.io-grey?)](https://favicon.io/) - A favicon.ico icon tool used to generate or download favicon icons in all required sizes. Favicon.io was used to generate favicon.ico file from the Kennet logo JPEG image.
 
 - [![Coolors Color Palette](https://img.shields.io/badge/Coolors%20Color%20Palette-grey?)](https://coolors.co/) - Coolors.co is a online colour palette generator used to visualise and create colour schemes. In this project Coolors was used to pick colours from the Kennet logo and site photo and create a colour palette that reflected the Kennet Shopping ethos and target audience.
@@ -263,8 +265,5 @@ As a developer:
 *Original Photo Link - [Click Here](https://www.pexels.com/photo/boy-squating-on-white-floor-tile-891289/)*
 <br>
 ![ThumbnailHeroImage](./assets/images/thumbnails/thumbnail-hero-image.png)
-
-### **Media Credits**
-- Media credits here...
 
 <br>
