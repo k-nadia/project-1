@@ -203,7 +203,7 @@ As a developer:
 | All	 | Footer            | Facebook Socials Icon                   | Click on icon                                  | Open Facebook page in a new tab                    | Pass   |
 | All	 | Footer            | Instagram Socials Icon                  | Click on icon                                  | Open Instagram page in a new tab                   | Pass   |
 | All	 | Footer            | X / Twitter Socials Icon                | Click on icon                                  | Open x / Twitter in a new tab                      | Pass   |
-|        |                   |                                         |                                                |                                                    |        |
+| All	 | Footer            | Email 'mailto' link		               | Click on link	                                | Opens a new message in user default email client with email recipient 'hello@kennetshopping.com'  | Pass   |
 
 ### **Validator Testing**
 - HTML - 
