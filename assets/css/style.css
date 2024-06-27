@@ -147,7 +147,7 @@ main {
     height: 200px;
     padding: 10px;
     margin: 1em;
-    background-color: #e0882680;
+    background-color: #e0882670;
     text-align: center;
 }
 
@@ -288,13 +288,17 @@ main {
 }
 
 /* FOOTER */
-footer {
+/*footer {
     position: relative;
     width: 100%;
     height: auto;
     margin-top: auto;
     background-color: #e0882680;
-    padding: 0.5em 1rem;
+    padding: 0.5em 1rem;*/
+
+.footer {
+    background-color:#e0882697;
+}
 
     /* SOCIAL MEDIA LINKS */
     #socials {
