@@ -306,11 +306,15 @@ main {
     padding: 60px;
 }
 
+.footer .container {
+    max-width: 1153px;
+    background-color: #e08826;
+    margin: auto;
+}
+
 .footer ul {
     list-style: none;
 }
-
-
 
 /* SOCIAL MEDIA LINKS */
 #socials {
