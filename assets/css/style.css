@@ -300,17 +300,20 @@ main {
     background-color:#e0882697;
 }
 
-    /* SOCIAL MEDIA LINKS */
-    #socials {
-        display: flex;
-        justify-content: space-evenly;
-        list-style-type: none;
-    }
+.footer ul {
+    list-style: none;
+}
 
-    #socials a {
-        color: #000000;
-        font-size: 2em;
-    }
+/* SOCIAL MEDIA LINKS */
+#socials {
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#socials a {
+    color: #000000;
+    font-size: 2em;
 }
 
 /* MEDIA QUERY - MOBILE SCREENS (max width 767px) */
