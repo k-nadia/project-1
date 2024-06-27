@@ -289,6 +289,9 @@ main {
 
 /* FOOTER */
 footer {
+    position: relative;
+    width: 100%;
+    height: auto;
     margin-top: auto;
     background-color: #e0882680;
     padding: 0.5em 1rem;
