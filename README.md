@@ -312,12 +312,20 @@ Expand/Collapse List starting code from @gregsaxton at copepen.io.
 
 *Image Usage - Hero Image (Home Page)*
 <br>
-*Author - Sunbae Legacy*
+*Photographer - Sunbae Legacy*
 <br>
 *Photo Library - Pexels* 
 <br>
 *Original Photo Link - [Click Here](https://www.pexels.com/photo/boy-squating-on-white-floor-tile-891289/)*
 <br>
 ![ThumbnailHeroImage](./assets/images/thumbnails/thumbnail-hero-image.png)
+<br>
 
+*Image Usage - Kennet Logo (Header & Favicon)*
+<br>
+*Designer - Unknown*
+<br>
+*Image property of Kennet Shopping*
+<br>
+![ThumbnailLogoImage](./assets/images/thumbnails/thumbnail-logo.png)
 <br>
