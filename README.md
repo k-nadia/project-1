@@ -295,6 +295,10 @@ Expand/Collapse List starting code from @gregsaxton at copepen.io.
  Designer's CodePen profile link - [Click here](https://codepen.io/gregsaxton)
  <br>
 
+ Starting steps and a few lines of code from the Code Institute's Love Running walkthrough project/lesson.
+ <br>
+ Code Instittue website link - [Click here](https://codeinstitute.net) 
+
 ### **Content Generators**
 -  [![Favicon.io](https://img.shields.io/badge/Favicon.io-grey?)](https://favicon.io/) - A favicon.ico icon tool used to generate or download favicon icons in all required sizes. Favicon.io was used to generate favicon.ico file from the Kennet logo JPEG image.
 
