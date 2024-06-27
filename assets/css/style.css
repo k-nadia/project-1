@@ -316,6 +316,10 @@ main {
     list-style: none;
 }
 
+.footer-column {
+    width: 33.33%;
+}
+
 /* SOCIAL MEDIA LINKS */
 #socials {
     display: flex;
