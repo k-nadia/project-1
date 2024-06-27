@@ -192,7 +192,7 @@ As a developer:
 | All    | Header nav menu   | 'Shop'                                  | Click on link                                  | Redirects user to 'Shop' page                      | Pass   |
 | All    | Header nav menu   | 'Visit'                                 | Click on link                                  | Redirects user to 'Visit' page                     | Pass   |
 | All    | Header nav menu   | 'Contact Us'                            | Click on link                                  | Redirects user to 'Contact us' page                | Pass   |
-| Home   |  Main             | Hero image                              | N/A                                            | Adjusts responsively according to user screen size | Pass       |
+| Home   |  Main             | Hero image                              | N/A                                            | Adjusts responsively according to user screen size | Pass   |
 | Home   |  Main		     | 'Shop' H2 heading (Column 1 section)    | Click on H2 text                               | Redirects user to 'Shop' page                      | Pass   |
 | Home   | Main	             | 'Shop' icon (Column 1 section)  		   | Click on icon	                                | Redirects user to 'Shop' page                      | Pass   |
 | Home   |  Main	         | 'Visit' H2 heading (Column 2 section)   | Click on H2 text                               | Redirects user to 'Visit' page                     | Pass   |
@@ -204,6 +204,11 @@ As a developer:
 | All	 | Footer            | Instagram Socials Icon                  | Click on icon                                  | Open Instagram page in a new tab                   | Pass   |
 | All	 | Footer            | X / Twitter Socials Icon                | Click on icon                                  | Open x / Twitter in a new tab                      | Pass   |
 | All	 | Footer            | Email 'mailto' link		               | Click on link	                                | Opens a new message in user default email client with email recipient 'hello@kennetshopping.com'  | Pass   |
+| All	 | Footer            | 'Home' page link		                   | Click on link                                  | Redirects user to 'Home' page                      | Pass   |
+| All	 | Footer            | 'Shop' page link               		   | Click on link                                  | Redirects user to 'Shop' page                      | Pass   |
+| All	 | Footer            | 'Visit' page link                       | Click on link                                  | Redirects user to 'Visit' page                     | Pass   |
+| All	 | Footer            | 'Contact Us' page link                  | Click on link                                  | Redirects user to 'Contact Us' page                | Pass   |
+| All	 | Footer            | 'Privacy Policy' page link              | Click on link                                  | Redirects user to 'Privacy Policy' page            | Pass   |
 
 ### **Validator Testing**
 - HTML - 
