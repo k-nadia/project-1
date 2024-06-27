@@ -296,6 +296,11 @@ main {
     background-color: #e0882680;
     padding: 0.5em 1rem;*/
 
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
 .footer {
     background-color:#e0882697;
     padding: 60px;
