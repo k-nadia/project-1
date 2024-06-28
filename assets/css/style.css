@@ -362,6 +362,23 @@ main {
         justify-content: center;
         z-index: 100;
     }
+
+    .shop-headings {
+        font-family: "Barlow Condensed", sans-serif;
+        font-weight: 500;
+        font-size: 1.5em;
+        text-align: center;
+        letter-spacing: 0.5px;
+        text-transform: uppercase;
+        margin: auto;
+        padding: 0;
+        width: 80%;
+    }
+
+    .m-d.expand-list {
+        margin: 0 0.5em;
+        padding: 0;
+    }
 }
 
 /* MEDIA QUERY - TABLET SCREENS (768px and larger) */
