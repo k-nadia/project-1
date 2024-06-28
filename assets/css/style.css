@@ -165,8 +165,13 @@ main {
 }
 
 /* EXPAND-COLLAPSE LIST (SHOP PAGE) */
+
+.shop-headings {
+    margin: 0 50px;
+}
+
 .m-d.expand-list {
-	margin: 50px;
+	margin: 0px;
 	padding: 0;
 }
 .m-d.expand-list > li {
