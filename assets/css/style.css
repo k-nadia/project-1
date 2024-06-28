@@ -363,6 +363,10 @@ main {
         z-index: 100;
     }
 
+    main {
+        margin-top: 0;
+    }
+
     .shop-headings {
         font-family: "Barlow Condensed", sans-serif;
         font-weight: 500;
