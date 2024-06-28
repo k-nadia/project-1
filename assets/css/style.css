@@ -424,6 +424,23 @@ main {
      #menu a:hover {
         background-color: #e0882660;
     }
+
+    .shop-headings {
+        font-family: "Barlow Condensed", sans-serif;
+        font-weight: 500;
+        font-size: 1.5em;
+        text-align: center;
+        letter-spacing: 0.5px;
+        text-transform: uppercase;
+        margin: 5px 50px;
+        padding-left: 0.5em;
+        width: 40%;
+    }
+
+    .m-d.expand-list {
+        margin: 0 9%;
+        padding: 0;
+    }
 }
 
 /* MEDIA QUERY - LAPTOPS & DESKTOPS (992px and larger) 
