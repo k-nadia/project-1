@@ -167,11 +167,11 @@ main {
 /* EXPAND-COLLAPSE LIST (SHOP PAGE) */
 
 .shop-headings {
-    margin: 0 50px;
+    margin: 10px 60px;
 }
 
 .m-d.expand-list {
-	margin: 0px;
+	margin: 0 85px;
 	padding: 0;
 }
 .m-d.expand-list > li {
