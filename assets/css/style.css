@@ -166,7 +166,7 @@ main {
 
 /* EXPAND-COLLAPSE LIST (SHOP PAGE) */
 .m-d.expand-list {
-	margin: 0;
+	margin: 50px;
 	padding: 0;
 }
 .m-d.expand-list > li {
