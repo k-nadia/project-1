@@ -627,4 +627,18 @@ main {
     .m-d.expand-list {
         margin: 0 95px;
         padding: 0;
+    }
+
+    #contact-section {
+        background-position: 70% 30%;
+    }
+
+    #contact-form {
+        max-width: 650px;
+        padding: 35px 35px 35px 35px;
+    }
+
+    #text-input {
+        width: 95%;
+    }
 }
