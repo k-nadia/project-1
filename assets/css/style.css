@@ -176,16 +176,19 @@ main {
     background-image: url("../images/contact-form-image.jpg");
     background-size: cover;
     background-position: 30%;
-    padding: 1em 5em 1em 1em;
+    padding: 1em 1em 1em 1em;
     flex-grow: 1;
 }
 
 #contact-form {
     color: #FFFFFF;
-    background-color: rgba(0,0,0,0.31);
+    background-color: rgba(0,0,0,0.11);
     padding: 15px;
 }
 
+.text-input {
+    border-radius: 5px;
+}
 .submit-button {
     border-radius: 5px;
     perspective: 1px;
