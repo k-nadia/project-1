@@ -174,7 +174,7 @@ main {
     text-transform: uppercase;
 }
 
-i {
+#contact-form i {
     font-size: 1.8em;
     letter-spacing: 0.7px;
     line-height: 25px;
