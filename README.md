@@ -357,6 +357,17 @@ Expand/Collapse List starting code from @gregsaxton at copepen.io.
 ![ThumbnailHeroImage](./assets/images/thumbnails/thumbnail-hero-image.png)
 <br>
 
+*Image Usage - Contact Form Background Image*
+<br>
+*Photographer - Prostock-Studio*
+<br>
+*Photo Library - iStock (stock photo ID: 1256461818)*
+<br>
+*Original Photo Link - [Click Here](https://www.istockphoto.com/photo/discount-app-smiling-black-woman-with-shopping-bags-using-smartphone-in-mall-gm1256461818-367896887?clarity=false)*
+<br>
+![ThumbnailContactImage](./assets/images/thumbnails/thumbnail-contact-image.png)
+<br>
+
 *Image Usage - Kennet Logo (Header & Favicon)*
 <br>
 *Designer - Unknown*
