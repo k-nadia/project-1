@@ -172,8 +172,10 @@ main {
     letter-spacing: 0.5px;
 }
 
-#contact-page {
+#contact-section {
     background-image: url("../images/contact-form-image.jpg");
+    background-size: cover;
+    background-position: 30%;
 }
 
 /* EXPAND-COLLAPSE LIST (SHOP PAGE) */
