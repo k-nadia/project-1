@@ -195,8 +195,8 @@ main {
 }
 
 .text-input {
-    color: #FFFFFF;
-    width: 80%;
+    color: #000000;
+    width: 90%;
     height: 25px;
     border: 1px solid #FFFFFF;
     border-radius: 5px;
@@ -488,6 +488,16 @@ main {
     .m-d.expand-list {
         margin: 0 9%;
         padding: 0;
+    }
+
+    /* CONTACT FORM */
+    #contact-section {
+        background-position: center;
+        position: relative;
+    }
+        
+    #contact-form {
+        max-width: 400px;
     }
 }
 
