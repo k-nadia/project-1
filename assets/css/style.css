@@ -183,7 +183,7 @@ main {
 #contact-section {
     background-image: url("../images/contact-form-image.jpg");
     background-size: cover;
-    background-position: 30%;
+    background-position: 40%;
     padding: 1em 1em 1em 1em;
     flex-grow: 1;
 }
@@ -195,10 +195,15 @@ main {
 }
 
 .text-input {
+    color: #FFFFFF;
+    width: 80%;
+    height: 25px;
+    border: 1px solid #FFFFFF;
     border-radius: 5px;
     padding: 0 5px;
     margin: 5px 0 7px 0;
 }
+
 .submit-button {
     border-radius: 5px;
     perspective: 1px;
