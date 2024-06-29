@@ -176,6 +176,8 @@ main {
     background-image: url("../images/contact-form-image.jpg");
     background-size: cover;
     background-position: 30%;
+    padding: 10% 10%;
+    flex-grow: 1;
 }
 
 /* EXPAND-COLLAPSE LIST (SHOP PAGE) */
