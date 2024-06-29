@@ -188,6 +188,8 @@ main {
 
 .text-input {
     border-radius: 5px;
+    padding: 0 5px;
+    margin: 5px 0 7px 0;
 }
 .submit-button {
     border-radius: 5px;
