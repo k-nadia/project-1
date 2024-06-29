@@ -172,6 +172,10 @@ main {
     letter-spacing: 0.5px;
 }
 
+#contact-page {
+    background-image: url("../images/contact-form-image.jpg");
+}
+
 /* EXPAND-COLLAPSE LIST (SHOP PAGE) */
 
 .shop-headings {
