@@ -176,7 +176,7 @@ main {
     background-image: url("../images/contact-form-image.jpg");
     background-size: cover;
     background-position: 30%;
-    padding: 10% 10%;
+    padding: 1em 5em 1em 1em;
     flex-grow: 1;
 }
 
