@@ -186,6 +186,11 @@ main {
     padding: 8px;
 }
 
+.submit-button {
+    background-color: #66E6E6;
+    color: #000000;
+}
+
 /* EXPAND-COLLAPSE LIST (SHOP PAGE) */
 
 .shop-headings {
