@@ -173,6 +173,12 @@ main {
     line-height: 25px;
 }
 
+i {
+    font-size: 1.8em;
+    letter-spacing: 0.7px;
+    line-height: 25px;
+}
+
 #contact-section {
     background-image: url("../images/contact-form-image.jpg");
     background-size: cover;
