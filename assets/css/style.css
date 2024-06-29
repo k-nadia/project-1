@@ -131,7 +131,7 @@ a {
 /* MAIN CONTENT */
 main {
     background-color: #ffffff;
-    flex-grow: 0;
+    flex-grow: 1;
     margin-top: 43px;
 }
 
@@ -452,8 +452,12 @@ main {
         z-index: 100;
     }
 
-    main {
+    #home-page main {
         margin-top: 0.5em;
+    }
+
+    #contact-page main {
+        margin-top: 5.5em;
     }
 
     header h1 {
@@ -512,8 +516,12 @@ main {
         z-index: 100;
     }
 
-    main {
+    #home-page main {
         margin-top: 0.5em;
+    }
+
+    #contact-page main {
+        margin-top: 5.5em;
     }
 
     header h1 {
