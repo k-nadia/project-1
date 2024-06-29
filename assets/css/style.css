@@ -563,6 +563,16 @@ main {
     .m-d.expand-list {
         margin: 0 85px;
         padding: 0;
+    }
+
+    /* CONTACT FORM */
+    .text-input:hover {
+        margin-left: 3%;
+    }
+
+    .submit-button:hover {
+        margin-left: 3%;
+    }
 }
 
 /* MEDIA QUERY - WIDER SCREEN DESKTOPS (1800px and larger) */
