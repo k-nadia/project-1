@@ -187,7 +187,10 @@ main {
 }
 
 .submit-button {
+    border-radius: 5px;
+    perspective: 1px;
     background-color: #66E6E6;
+    padding: 9px 18px;
     color: #000000;
 }
 
