@@ -213,7 +213,9 @@ As a developer:
 | Shop   |  Main			 | Store list 'collapse' function  (Services & Leisure setion) | Click on any shop name text or '-' icon (for expanded list items)| List section expands to reveal store information   | Pass   |
 | Shop   |  Main			 | Store list 'expand' function (Groceries & Newsagents setion) | Click on any shop name text or '+' icon (for collapsed list items)| List section expands to reveal store information   | Pass   |
 | Shop   |  Main			 | Store list 'collapse' function  (Groceries & Newsagents setion) | Click on any shop name text or '-' icon (for expanded list items)| List section expands to reveal store information   | Pass   |
-| Contact Us| Main			 | Contact form                            | Enter required form details and click 'Submit' | Opens confirmation message page in a new tab       |        |
+| Contact Us| Main			 | Contact form                            | Complete all required form fields and click 'Submit' | Opens confirmation message page in a new tab       |        |
+| Contact Us| Main			 | Contact form                            | Leave all contact form fields empty and click 'Submit' | 'Please fill in this form' message appears and user is unable to submit form until all required fields are completed       |Pass        |
+| Contact Us| Main			 | Contact form                            | Complete some but not all form fields and click 'Submit' | 'Please fill in this form' message appears and user is unable to submit form until all required fields are completed       |Pass        |
 | All	 | Footer            | Facebook Socials Icon                   | Click on icon                                  | Open Facebook page in a new tab                    | Pass   |
 | All	 | Footer            | Instagram Socials Icon                  | Click on icon                                  | Open Instagram page in a new tab                   | Pass   |
 | All	 | Footer            | X / Twitter Socials Icon                | Click on icon                                  | Open x / Twitter in a new tab                      | Pass   |
