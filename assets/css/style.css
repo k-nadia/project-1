@@ -166,11 +166,12 @@ main {
 
 /* CONTACT US PAGE */
 #contact-heading {
-    font-family: "Barlow Condensed", sans-serif;
-    font-weight: 500;
-    font-size: 1.8em;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 1.5em;
     letter-spacing: 0.7px;
     line-height: 25px;
+    text-transform: uppercase;
 }
 
 i {
@@ -190,7 +191,7 @@ i {
 #contact-form {
     color: #FFFFFF;
     background-color: rgba(0,0,0,0.11);
-    padding: 15px 50px 15px 15px;
+    padding: 15px 40px 15px 15px;
 }
 
 .text-input {
