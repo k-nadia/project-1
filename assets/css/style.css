@@ -180,6 +180,11 @@ main {
     flex-grow: 1;
 }
 
+#contact-form {
+    color: #FFFFFF;
+    padding: 8px;
+}
+
 /* EXPAND-COLLAPSE LIST (SHOP PAGE) */
 
 .shop-headings {
