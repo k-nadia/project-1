@@ -169,7 +169,8 @@ main {
     font-family: "Barlow Condensed", sans-serif;
     font-weight: 500;
     font-size: 1.8em;
-    letter-spacing: 0.5px;
+    letter-spacing: 0.7px;
+    line-height: 25px;
 }
 
 #contact-section {
