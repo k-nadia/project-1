@@ -192,13 +192,15 @@ As a developer:
 | All    | Header nav menu   | 'Shop'                                  | Click on link                                  | Redirects user to 'Shop' page                      | Pass   |
 | All    | Header nav menu   | 'Visit'                                 | Click on link                                  | Redirects user to 'Visit' page                     | Pass   |
 | All    | Header nav menu   | 'Contact Us'                            | Click on link                                  | Redirects user to 'Contact us' page                | Pass   |
-| Home   |  Main             | Hero image                              | N/A                                            | Adjusts responsively according to user screen size | Pass   |
+| Home   |  Main             | Hero image                              | N/A                                            | Adjusts responsively according to user screen  size | Pass   |
 | Home   |  Main		     | 'Shop' H2 heading (Column 1 section)    | Click on H2 text                               | Redirects user to 'Shop' page                      | Pass   |
 | Home   |  Main	         | 'Shop' icon (Column 1 section)  		   | Click on icon	                                | Redirects user to 'Shop' page                      | Pass   |
 | Home   |  Main	         | 'Visit' H2 heading (Column 2 section)   | Click on H2 text                               | Redirects user to 'Visit' page                     | Pass   |
 | Home   |  Main	         | 'Visit' location icon (Column 2 section)| Click on icon	                                | Redirects user to 'Visit' page                     | Pass   |
 | Home   |  Main             | 'Contact Us' H2 heading (Column 3 section)   | Click on H2 text                          | Redirects user to 'Contact Us' page                | Pass   |
 | Home   |  Main	         | 'Contact Us' envelope icon (Column 3 section)| Click on icon	                            | Redirects user to 'Contact Us' page                | Pass   |
+| Shop   |  Main             | All page headings                              | N/A                                     | Adjust responsively according to user screen  size | Pass   |
+| Shop   |  Main             | All expand/collapse accordian list elements    | N/A                                     | Adjust responsively according to user screen  size | Pass   |
 | Shop   |  Main			 | Store list 'expand' function (Fashion, Clothing & Accessories setion) | Click on any shop name text or '+' icon (for collapsed list items)| List section expands to reveal store information   | Pass   |
 | Shop   |  Main			 | Store list 'collapse' function  (Fashion, Clothing & Accessories setion) | Click on any shop name text or '-' icon (for expanded list items)| List section expands to reveal store information   | Pass   |
 | Shop   |  Main			 | Store list 'expand' function (Gifts, Cards & Homeware setion) | Click on any shop name text or '+' icon (for collapsed list items)| List section expands to reveal store information   | Pass   |
