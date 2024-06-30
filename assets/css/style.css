@@ -419,6 +419,18 @@ main {
     font-family: 'Montserrat', sans-serif;
     letter-spacing: 2.35px;
     margin-bottom: 20px;
+    position: relative;
+}
+
+.footer-column h4::before {
+    content: '';
+    height: 2px;
+    width: 15%;
+    position: absolute;
+    left: 0;
+    bottom: -10px;
+    background-color: #000000;
+    box-sizing: border-box;
 }
 
 /* SOCIAL MEDIA LINKS */
