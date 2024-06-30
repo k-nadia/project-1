@@ -218,8 +218,11 @@ main {
 #thank-you-page {
     background-image: url("../images/thank-you-background.jpg");
     background-size: cover;
-    background-position: 25% 60%;
+    background-position: 20% 70%;
+    max-height: 800px;
+    overflow: hidden;
     flex-grow: 1;
+    margin-bottom: 1em;
 }
 
 /* EXPAND-COLLAPSE LIST (SHOP PAGE) */
@@ -514,6 +517,8 @@ main {
     #thank-you-page {
         background-position: center;
         position: relative;
+        max-height: auto;
+        overflow: scroll;
     }
 }
 
