@@ -371,6 +371,16 @@ Expand/Collapse List starting code from @gregsaxton at copepen.io.
 ![ThumbnailContactImage](./assets/images/thumbnails/thumbnail-contact-image.png)
 <br>
 
+*Image Usage - Thank You Page Background Image*
+<br>
+*Photographer - DS stories*
+<br>
+*Photo Library - Pexels*
+<br>
+*Original Photo Link - [Click Here](https://www.pexels.com/photo/thank-you-arranged-from-scrabble-letters-6005318/)*
+<br>
+![ThumbnailThankYouImage](./assets/images/thumbnails/thumbnail-thank-you-background.png)
+
 *Image Usage - Kennet Logo (Header & Favicon)*
 <br>
 *Designer - Unknown*
