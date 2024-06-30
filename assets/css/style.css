@@ -659,9 +659,13 @@ main {
         padding: 0 1em;
     }
 
+    .footer-column h4:hover{
+        margin-left:3%;
+    }
+
      /* HIGHLIGHT NAV BAR LINKS WHEN HOVERED OVER */
-     #menu a:hover {
-        background-color: #e0882660;
+    #menu a:hover {
+    background-color: #e0882660;
     }
 
     .shop-headings {
