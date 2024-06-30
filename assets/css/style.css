@@ -433,6 +433,42 @@ main {
     font-size: 2em;
 }
 
+/*MEDIA QUERY - SMALLER MOBILE SCREENS (max width: 412px) */
+@media screen and (max-width:412px) {
+
+    /* THANK YOU PAGE (CONTACT FORM MESSAGE CONFIRMATION) */
+    #thanks-box {
+        background-color: #FFFFFF;
+        margin: 5px;
+        padding: 5px;
+        border: 1px solid #000000;
+        box-shadow: 5px 5px 12px #737373;
+        border-radius: 5px;
+    }
+
+    #thanks-message {
+        font-family: "Montserrat", sans-serif;
+        font-weight: 400;
+        font-size: 0.8em;
+        letter-spacing: 0.7px;
+        line-height: 20px;
+        color: #000000;
+        text-align: center;
+        margin: 5px;
+    }
+
+    #thank-you-page {
+        background-image: url("../images/thank-you-background.jpg");
+        background-size: cover;
+        background-position: 20% 70%;
+        max-height: 800px;
+        overflow: hidden;
+        flex-grow: 1;
+        margin-bottom: 1em;
+    }
+
+}
+
 /* MEDIA QUERY - MOBILE SCREENS (max width 767px) */
 @media screen and (max-width:767px) {
     
@@ -664,7 +700,7 @@ main {
 }
 
 /* MEDIA QUERY - DESKTOP SCREENS (1024px and larger */
-@media screen and (min-width:1024px)
+@media screen and (min-width:1024px) {
     
         /* THANK YOU PAGE */
     
@@ -688,6 +724,7 @@ main {
             text-align: center;
             padding: 2px 4px;
         }
+    }
 
 /* MEDIA QUERY - WIDER SCREEN DESKTOPS (1800px and larger) */
 @media screen and (min-width:1800px) {
