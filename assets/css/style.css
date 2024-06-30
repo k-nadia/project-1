@@ -536,6 +536,26 @@ main {
         max-height: auto;
         overflow: scroll;
     }
+
+    #thanks-box {
+        background-color: #FFFFFF;
+        max-width: 25%;
+        position: absolute;
+        left: 47%;
+        top: 25%;
+        border: 1px solid #000000;
+    }
+    
+    #thanks-message {
+        font-family: "Montserrat", sans-serif;
+        font-weight: 400;
+        font-size: 1em;
+        letter-spacing: 0.7px;
+        margin: 10px;
+        line-height: 25px;
+        color: #000000;
+        text-align: center;
+    }
 }
 
 /* MEDIA QUERY - LAPTOPS & DESKTOPS (992px and larger) */
