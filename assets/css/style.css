@@ -131,6 +131,8 @@ a {
 /* MAIN CONTENT */
 main {
     background-color: #ffffff;
+    /*display: flex;
+    flex-direction: column;*/
     flex-grow: 1;
     margin-top: 43px;
 }
@@ -213,10 +215,11 @@ main {
 }
 
 /* THANK YOU PAGE (CONTACT FORM MESSAGE CONFIRMATION) */
-#thank-you-image {
-    height: 600px;
-    width: 100%;
-    background: url("../images/thank-you-background.jpg") no-repeat center center/cover;
+#thank-you-page {
+    background-image: url("../images/thank-you-background.jpg");
+    background-size: cover;
+    background-position: 25% 60%;
+    flex-grow: 1;
 }
 
 /* EXPAND-COLLAPSE LIST (SHOP PAGE) */
@@ -505,6 +508,12 @@ main {
         
     #contact-form {
         max-width: 400px;
+    }
+
+    /* THANK YOU PAGE */
+    #thank-you-page {
+        background-position: center;
+        position: relative;
     }
 }
 
