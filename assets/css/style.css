@@ -433,6 +433,10 @@ main {
     box-sizing: border-box;
 }
 
+.footer-column a {
+    color: #000000;
+}
+
 /* SOCIAL MEDIA LINKS */
 #socials {
     display: flex;
