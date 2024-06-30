@@ -433,8 +433,13 @@ main {
     box-sizing: border-box;
 }
 
+.footer-column span {
+    font-size: 14px;
+}
+
 .footer-column a {
     color: #000000;
+    font-size: 14px;
 }
 
 /* SOCIAL MEDIA LINKS */
