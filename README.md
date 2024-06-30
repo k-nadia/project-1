@@ -380,7 +380,7 @@ Expand/Collapse List starting code from @gregsaxton at copepen.io.
 <br>
 *Original Photo Link - [Click Here](https://www.pexels.com/photo/thank-you-arranged-from-scrabble-letters-6005318/)*
 <br>
-![ThumbnailThankYouImage](./assets/images/thumbnails/)
+![ThumbnailThankYouImage](./assets/images/thumbnails/thumbnail-thank-you-background.png)
 
 *Image Usage - Kennet Logo (Header & Favicon)*
 <br>
