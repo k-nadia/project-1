@@ -215,6 +215,22 @@ main {
 }
 
 /* THANK YOU PAGE (CONTACT FORM MESSAGE CONFIRMATION) */
+#thanks-box {
+    background-color: #FFFFFF;
+    margin: 10px;
+    border: 1px solid #000000;
+}
+
+#thanks-message {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 1em;
+    letter-spacing: 0.7px;
+    line-height: 25px;
+    color: #000000;
+    text-align: center;
+}
+
 #thank-you-page {
     background-image: url("../images/thank-you-background.jpg");
     background-size: cover;
