@@ -214,7 +214,7 @@ As a developer:
 | Shop   |  Main			 | Store list 'expand' function (Groceries & Newsagents setion) | Click on any shop name text or '+' icon (for collapsed list items)| List section expands to reveal store information   | Pass   |
 | Shop   |  Main			 | Store list 'collapse' function  (Groceries & Newsagents setion) | Click on any shop name text or '-' icon (for expanded list items)| List section expands to reveal store information   | Pass   |
 | Contact Us   |  Main       | Contact form   | N/A                                     | Adjust responsively according to user screen  size | Pass   |
-| Contact Us| Main			 | Contact form                            | Complete all required form fields and click 'Submit' | Opens confirmation message page in a new tab       |        |
+| Contact Us| Main			 | Contact form                            | Complete all required form fields and click 'Submit' | Redirects user to 'Thank You' page which displays confirmation message       | Pass       |
 | Contact Us| Main			 | Contact form                            | Leave all contact form fields empty and click 'Submit' | 'Please fill in this form' message appears and user is unable to submit form until all required fields are completed       |Pass        |
 | Contact Us| Main			 | Contact form                            | Complete some but not all form fields and click 'Submit' | 'Please fill in this form' message appears and user is unable to submit form until all required fields are completed       |Pass        |
 | Contact Us| Contact Form			 | Text input box                       | Hover over text input box | Text input box jumps slightly to right while cursor hovers over element     |Pass        |
