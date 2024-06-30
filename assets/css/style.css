@@ -630,7 +630,62 @@ main {
     .submit-button:hover {
         margin-left: 3%;
     }
+
+        /* THANK YOU PAGE */
+        #thank-you-page {
+            background-position: center;
+            position: relative;
+            max-height: auto;
+            overflow: scroll;
+        }
+    
+        #thanks-box {
+            background-color: #FFFFFF;
+            max-width: 30%;
+            position: absolute;
+            left: 42%;
+            top: 26%;
+            border: 2px solid #000000;
+        }
+        
+        #thanks-message {
+            font-family: "Montserrat", sans-serif;
+            font-weight: 400;
+            font-size: 1em;
+            letter-spacing: 0.7px;
+            margin: 10px;
+            line-height: 27px;
+            color: #000000;
+            text-align: center;
+            padding: 2px 4px;
+        }
 }
+
+/* MEDIA QUERY - DESKTOP SCREENS (1024px and larger */
+@media screen and (min-width:1024px)
+    
+        /* THANK YOU PAGE */
+    
+        #thanks-box {
+            background-color: #FFFFFF;
+            max-width: 30%;
+            position: absolute;
+            left: 42%;
+            top: 26%;
+            border: 2px solid #000000;
+        }
+        
+        #thanks-message {
+            font-family: "Montserrat", sans-serif;
+            font-weight: 400;
+            font-size: 1em;
+            letter-spacing: 0.7px;
+            margin: 10px;
+            line-height: 27px;
+            color: #000000;
+            text-align: center;
+            padding: 2px 4px;
+        }
 
 /* MEDIA QUERY - WIDER SCREEN DESKTOPS (1800px and larger) */
 @media screen and (min-width:1800px) {
