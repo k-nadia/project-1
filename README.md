@@ -269,6 +269,45 @@ The following simulated mobile devices were tested using the Chrome Developer To
 
 ### **Troubleshooting**
 
+
+
+---
+
+### **Issue 1**
+At the start of the project there was an issue with my site favicon not displaying. I realised that I had not changed the file path from the default one given by favicon.io in the favicon html code. After amending the file path to include the asset and images folder using a relative path, the problem was rectified and the favicon displayed correctly as seen below.
+
+![TroubleshootingScreenshot1](./assets/images/troubleshooting/troubleshooting-1.JPG)
+
+---
+### **Issue 2**
+When working on the footer element I found that my footer links were not working. A quick closer inspection of my code showed me that I had inadvertently put the link text (e.g. 'Home) outside of the html 'a href' tag, causing the hyperlink function to fail (screenshot below of incorrect code). Once I amended the code to put all the link text inside of the 'a href' tag, the links worked correctly.
+
+![TroubleshootingScreenshot2](./assets/images/troubleshooting/troubleshooting-2.png)
+
+---
+### **Issue 3**
+As i was running my site to check the footer display , I noticed that for some reason there was a duplicate 'X / Twitter' link that had appeared underneath my other social icons.
+
+![TroubleshootingScreenshot3](./assets/images/troubleshooting/troubleshooting-3.png)
+
+I scrutinised my html code (below) and subsequently found that the closing 'a' tag in the footer section was incorrectly placed outside of the parent div element tag and there was also a duplicate 'div' tag inside of the last 'a href' element, which featured the 'X / Twitter' link. I removed the duplicate 'div' tag and moved the 'a' tag to its correct position inside of the parent div element. These actions corrected the issue and the 'X / Twitter' link then functioned correctly.
+
+![TroubleshootingScreenshot3.1](./assets/images/troubleshooting/troubleshooting-3.1.png)
+
+---
+### **Issue 4**
+When testing my 'Contact Us' page for mobile responsiveness I noticed that the navigation menu burger icon had suddenly increased in size. 
+
+![TroubleshootingScreenshot4](./assets/images/troubleshooting/troubleshooting-4.png)
+
+A little investigating revealed that while styling the contact form envelope icon in style.css (incorrect code shown below), I had negated to target only that specific icon so all icons on the site (including the burger menu icon) were being affected by my style changes.
+
+![TroubleshootingScreenshot4.1](./assets/images/troubleshooting/troubleshooting-4.1.png)
+
+I realised I needed to specify my style rule to only target icons within the 'contact-form' id, so other icons would not be affected. Once I changed my target element for the style changes from 'i' to '#contact-form i' the issue was no longer present and the burger icon went back to its original intended size.
+
+---
+
 ### **Validator Testing**
 - HTML - 
 - CSS -
