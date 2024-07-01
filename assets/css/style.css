@@ -666,11 +666,13 @@ main {
 
     .footer-column h4:hover{
         margin-left:3%;
+        transition: all 0.2s linear;
     }
 
      /* HIGHLIGHT NAV BAR LINKS WHEN HOVERED OVER */
     #menu a:hover {
-    background-color: #e0882660;
+        background-color: #e0882660;
+        transition: all 0.2s linear;
     }
 
     .shop-headings {
@@ -693,10 +695,12 @@ main {
     /* CONTACT FORM */
     .text-input:hover {
         margin-left: 3%;
+        transition: all 0.2s linear;
     }
 
     .submit-button:hover {
         margin-left: 3%;
+        transition: all 0.2s linear;
     }
 
         /* THANK YOU PAGE */
