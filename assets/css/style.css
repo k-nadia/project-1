@@ -394,13 +394,13 @@ main {
 }
 
 .footer {
-    background-color:#e0882697;
-    padding: 60px;
+    background-color: #333333;
+    padding: 35px;
 }
 
 .f-container {
-    max-width: 1153px;
-    background-color: #e08826;
+    max-width: 1193px;
+    background-color: #333333;
     margin: auto;
 }
 
@@ -415,7 +415,7 @@ main {
 
 .footer-column h4 {
     font-size: 18px;
-    color: #000000;
+    color: #FFFFFF;
     font-family: 'Montserrat', sans-serif;
     letter-spacing: 2.35px;
     margin-bottom: 20px;
@@ -424,22 +424,27 @@ main {
 
 .footer-column h4::before {
     content: '';
-    height: 2px;
+    height: 3px;
     width: 15%;
     position: absolute;
     left: 0;
     bottom: -10px;
-    background-color: #000000;
+    background-color: #A12F84;
     box-sizing: border-box;
 }
 
 .footer-column span {
     font-size: 14px;
+    color: #FFFFFF;
 }
 
 .footer-column a {
-    color: #000000;
+    color: #FFFFFF;
     font-size: 14px;
+}
+
+.footer-column i {
+    color:#66E6E6;
 }
 
 /* SOCIAL MEDIA LINKS */
@@ -450,7 +455,7 @@ main {
 }
 
 #socials a {
-    color: #000000;
+    color: #FFFFFF;
     font-size: 2em;
 }
 
