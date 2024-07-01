@@ -12,10 +12,15 @@
 
 
 <hr>
+
+# **Introduction**
 <br>
-Kennet Shopping introduction paragraph...
-<br>
-<br>
+Portfolio Project 1 - Code Institute Full Stack Development Diploma
+<br><br>
+This project is a front end website for Kennet Shopping, a shopping centre in Newbury, Berkshire. Having created a website for Kennet Shopping in 2022 on WordPress, using a drag and drop Elementor template and zero code, I wanted to create a new website using the new coding skills I had recently acquired in HTML and CSS, while in my first two months of study at the Code Institute. The website is user-friendly, responsive and features a contact form where users can interact with Kennet Shopping and a broad range of information on the business, designed with user experience / interface at the forefront of the development aims and purpose.
+<br><br>
+The Kennet Shopping website provides a visually appealling resource for potential and existing customers of the shopping centre, who would like to know more about what the centre has to offer. The website is intentially designed with the target demographic of families in mind and utilises bright bold colours with a modern aesthetic, to demonstrate the core business aim to deliver a fun, enjoyable shopping experience adults and children alike.
+<br><br>
 
 <p align="center">
 <img src ="assets/images/am-i-responsive-placeholder-image.JPG" width="auto" height="auto" alt="AmIResponsive placeholder image showing the following viewports: desktop, laptop, tablet, mobile">
