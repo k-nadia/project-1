@@ -20,7 +20,7 @@ Portfolio Project 1 - Code Institute Full Stack Development Diploma
 This project is a front end website for Kennet Shopping, a shopping centre in Newbury, Berkshire. Having created a website for Kennet Shopping in 2022 on WordPress, using a drag and drop Elementor template and zero code, I wanted to create a new website using the new coding skills I had recently acquired in HTML and CSS, while in my first two months of study at the Code Institute. The website is user-friendly, responsive and features a contact form where users can interact with Kennet Shopping and a broad range of information on the business, designed with user experience / interface at the forefront of the development aims and purpose.
 <br><br>
 The Kennet Shopping website provides a visually appealling resource for potential and existing customers of the shopping centre, who would like to know more about what the centre has to offer. The website is intentially designed with the target demographic of families in mind and utilises bright bold colours with a modern aesthetic, to demonstrate the core business aim to deliver a fun, enjoyable shopping experience adults and children alike.
-<br><br>
+<br><br><br>
 
 <p align="center">
 <img src ="assets/images/am-i-responsive-placeholder-image.JPG" width="auto" height="auto" alt="AmIResponsive placeholder image showing the following viewports: desktop, laptop, tablet, mobile">
@@ -266,6 +266,8 @@ The following simulated mobile devices were tested using the Chrome Developer To
 - iPad Mini (768px x 1024px)
 - iPad Air (820px x 1180px)
 - Asus Zenbook Fold (853px x 1280px)
+
+### **Troubleshooting**
 
 ### **Validator Testing**
 - HTML - 
