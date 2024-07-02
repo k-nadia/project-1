@@ -280,8 +280,6 @@ The following simulated mobile devices were tested using the Chrome Developer To
 
 ### **Troubleshooting**
 
-
-
 ---
 
 ### **Issue 1**
@@ -320,6 +318,17 @@ I realised I needed to specify my style rule to only target icons within the 'co
 ---
 
 ### **Validator Testing**
+
+Google Chrome Dev Tools Lighthouse Testing Results:
+
+<b>Shop Page (mobile)</b>
+<br><br>
+![ShopLighthouseTestMobile](./assets/images/screenshots/lighthouse-shop-mobile.JPG)
+
+<b>Shop Page (desktop)</b>
+<br><br>
+![ShopLighthouseTestDesktop](./assets/images/screenshots/lighthouse-shop-desktop.JPG)
+
 - HTML - 
 - CSS -
 
