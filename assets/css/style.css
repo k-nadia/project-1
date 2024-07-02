@@ -472,6 +472,15 @@ main {
 /*MEDIA QUERY - SMALLER MOBILE SCREENS (max width: 412px) */
 @media screen and (max-width:412px) {
 
+    /* CONTACT US PAGE */
+    #contact-section {
+    background-image: url("../images/contact-form-image-mobile.jpg");
+    background-size: cover;
+    background-position: 40%;
+    padding: 1em 1em 1em 1em;
+    flex-grow: 1;
+    }
+
     /* THANK YOU PAGE (CONTACT FORM MESSAGE CONFIRMATION) */
     #thanks-box {
         background-color: #FFFFFF;
@@ -531,6 +540,15 @@ main {
         margin: 0 0.5em;
         padding: 0;
     }
+
+        /* CONTACT US PAGE */
+        #contact-section {
+            background-image: url("../images/contact-form-image-mobile.jpg");
+            background-size: cover;
+            background-position: 40%;
+            padding: 1em 1em 1em 1em;
+            flex-grow: 1;
+            }
 
     /* THANK YOU PAGE (CONTACT FORM MESSAGE CONFIRMATION) */
     #thanks-box {
@@ -624,6 +642,7 @@ main {
 
     /* CONTACT FORM */
     #contact-section {
+        background-image: url("../images/contact-form-image-mobile.jpg");
         background-position: center;
         position: relative;
     }
