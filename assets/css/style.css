@@ -220,7 +220,7 @@ main {
 #thank-you-page {
     background-color: #e0882680;
     height: 800px;
-    max-height: 1200px;
+    max-height: 800px;
     flex-grow: 1;
 }
 
@@ -554,9 +554,9 @@ main {
     }
 
     #thank-you-page {
-        height: 800px;
+        height: 500px;
         background-color: #e0882680;
-        max-height: 1200px;
+        max-height: 500px;
         flex-grow: 1;
     }
 
@@ -634,15 +634,15 @@ main {
 
     /* THANK YOU PAGE */
     #thank-you-page {
-        height: 800px;
+        height: 500px;
         background-color: #e0882680;
-        max-height: 1200px;
+        max-height: 500px;
         flex-grow: 1;
     }
     
     #thanks-box {
         background-color: #FFFFFF;
-        margin: 50px 75px;
+        margin: 80px 75px;
         padding: 30px;
         border: 1px solid #000000;
         box-shadow: 5px 5px 12px #737373;
@@ -743,9 +743,17 @@ main {
     }
 
     /* THANK YOU PAGE */
+
+    #thank-you-page {
+        height: 500px;
+        background-color: #e0882680;
+        max-height: 500px;
+        flex-grow: 1;
+    }
+
     #thanks-box {
         background-color: #FFFFFF;
-        margin: 60px 85px;
+        margin: 80px 75px;
         padding: 40px;
         border: 1px solid #000000;
         box-shadow: 5px 5px 12px #737373;
@@ -773,15 +781,15 @@ main {
     
     /* THANK YOU PAGE */
     #thank-you-page {
-        height: 800px;
+        height: 500px;
         background-color: #e0882680;
-        max-height: 1200px;
+        max-height: 500px;
         flex-grow: 1;
     }
 
     #thanks-box {
         background-color: #FFFFFF;
-        margin: 60px 85px;
+        margin: 80px 75px;
         padding: 50px;
         border: 1px solid #000000;
         box-shadow: 5px 5px 12px #737373;
@@ -893,9 +901,9 @@ main {
 
     /* THANK YOU PAGE */
     #thank-you-page {
-        height: 800px;
+        height: 500px;
         background-color: #e0882680;
-        max-height: 1200px;
+        max-height: 500px;
         flex-grow: 1;
     }
         
