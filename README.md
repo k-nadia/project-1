@@ -185,9 +185,11 @@ Users viewing the site on tablets and desktop screens (over 768px width) will se
 
 ![NavMenuScreenshot](assets/images/screenshots/header-nav-menu.png)
 
-### **Home Hero Image**
+### **Home Page Hero Image**
 
+Below the header navigation menu on the Home page is the hero image. The image is responsive and adapts to all screen sizes, without distorting the image. The image reflects the family-friendly ethos of the Kennet Shopping centre and features a range of different bright colours, thus complementing the multi-coloured Kennet Shopping logo and site colour palette.
 
+![HeroImageScreenshot](assets/images/screenshots/hero-image-screenshots.png)
 
 ### **Footer**
 
