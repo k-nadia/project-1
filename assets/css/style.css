@@ -435,7 +435,7 @@ main {
 
 .footer-column span {
     font-size: 14px;
-    color: #FFFFFF;
+    color: #FFFFFF !important;
 }
 
 .footer-column a {
