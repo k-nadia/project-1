@@ -226,7 +226,7 @@ main {
 
 #thanks-box {
     background-color: #FFFFFF;
-    margin: 50px;
+    margin: 50px 75px;
     padding: 50px;
     border: 1px solid #000000;
     box-shadow: 5px 5px 12px #737373;
@@ -475,8 +475,8 @@ main {
     /* THANK YOU PAGE (CONTACT FORM MESSAGE CONFIRMATION) */
     #thanks-box {
         background-color: #FFFFFF;
-        margin: 50px;
-        padding: 50px;
+        margin: 50px 75px;
+        padding: 30px;
         border: 1px solid #000000;
         box-shadow: 5px 5px 12px #737373;
         border-radius: 5px;
@@ -535,8 +535,8 @@ main {
     /* THANK YOU PAGE (CONTACT FORM MESSAGE CONFIRMATION) */
     #thanks-box {
         background-color: #FFFFFF;
-        margin: 50px;
-        padding: 50px;
+        margin: 50px 75px;
+        padding: 30px;
         border: 1px solid #000000;
         box-shadow: 5px 5px 12px #737373;
         border-radius: 5px;
@@ -642,8 +642,8 @@ main {
     
     #thanks-box {
         background-color: #FFFFFF;
-        margin: 50px;
-        padding: 50px;
+        margin: 50px 75px;
+        padding: 30px;
         border: 1px solid #000000;
         box-shadow: 5px 5px 12px #737373;
         border-radius: 5px;
@@ -745,8 +745,8 @@ main {
     /* THANK YOU PAGE */
     #thanks-box {
         background-color: #FFFFFF;
-        margin: 60px;
-        padding: 50px;
+        margin: 60px 85px;
+        padding: 40px;
         border: 1px solid #000000;
         box-shadow: 5px 5px 12px #737373;
         border-radius: 5px;
@@ -781,7 +781,7 @@ main {
 
     #thanks-box {
         background-color: #FFFFFF;
-        margin: 80px;
+        margin: 60px 85px;
         padding: 50px;
         border: 1px solid #000000;
         box-shadow: 5px 5px 12px #737373;
@@ -901,7 +901,7 @@ main {
         
     #thanks-box {
         background-color: #FFFFFF;
-        margin: 90px;
+        margin: 90px 110px;
         padding: 50px;
         border: 1px solid #000000;
         box-shadow: 5px 5px 12px #737373;
@@ -931,5 +931,5 @@ main {
 
     #thanks-message img {
         padding: 10px;
-    }
+        }
 }
