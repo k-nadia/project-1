@@ -234,13 +234,12 @@ main {
 }
 
 #thank-you-page {
-    background-image: url("../images/thank-you-background.jpg");
+    height: 800px;
+    background: url("../images/thank-you-background.jpg") no-repeat center center/cover;
     background-size: cover;
     background-position: 20% 70%;
-    max-height: 800px;
-    overflow: hidden;
+    max-height: 1200px;
     flex-grow: 1;
-    margin-bottom: 1em;
 }
 
 /* EXPAND-COLLAPSE LIST (SHOP PAGE) */
