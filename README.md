@@ -329,6 +329,14 @@ Google Chrome Dev Tools Lighthouse Testing Results:
 <br><br>
 ![ShopLighthouseTestDesktop](./assets/images/screenshots/lighthouse-shop-desktop.JPG)
 
+<b>Thank You Page (mobile)</b>
+<br><br>
+![ShopLighthouseTestMobile](./assets/images/screenshots/lighthouse-thankyou-mobile.JPG)
+
+<b>Thank You Page (desktop)</b>
+<br><br>
+![ShopLighthouseTestDesktop](./assets/images/screenshots/lighthouse-thankyou-desktop.JPG)
+
 - HTML - 
 - CSS -
 
