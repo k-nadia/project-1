@@ -185,6 +185,10 @@ Users viewing the site on tablets and desktop screens (over 768px width) will se
 
 ![NavMenuScreenshot](assets/images/screenshots/header-nav-menu.png)
 
+### **Home Hero Image**
+
+
+
 ### **Footer**
 
 ### **Home Page**
