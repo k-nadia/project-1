@@ -217,9 +217,17 @@ main {
 }
 
 /* THANK YOU PAGE (CONTACT FORM MESSAGE CONFIRMATION) */
+#thank-you-page {
+    background-color: #e0882680;
+    height: 800px;
+    max-height: 1200px;
+    flex-grow: 1;
+}
+
 #thanks-box {
     background-color: #FFFFFF;
-    margin: 10px;
+    margin: 50px;
+    padding: 50px;
     border: 1px solid #000000;
     box-shadow: 5px 5px 12px #737373;
     border-radius: 5px;
@@ -230,18 +238,13 @@ main {
     font-weight: 400;
     font-size: 1em;
     letter-spacing: 0.7px;
-    line-height: 25px;
+    line-height: 35px;
     color: #000000;
     text-align: center;
 }
 
-#thank-you-page {
-    height: 800px;
-    background: url("../images/thank-you-background.jpg") no-repeat center center/cover;
-    background-size: cover;
-    background-position: 20% 70%;
-    max-height: 1200px;
-    flex-grow: 1;
+#thanks-message img {
+    padding: 10px;
 }
 
 /* EXPAND-COLLAPSE LIST (SHOP PAGE) */
@@ -472,8 +475,8 @@ main {
     /* THANK YOU PAGE (CONTACT FORM MESSAGE CONFIRMATION) */
     #thanks-box {
         background-color: #FFFFFF;
-        margin: 5px;
-        padding: 5px;
+        margin: 50px;
+        padding: 50px;
         border: 1px solid #000000;
         box-shadow: 5px 5px 12px #737373;
         border-radius: 5px;
@@ -491,13 +494,10 @@ main {
     }
 
     #thank-you-page {
-        background-image: url("../images/thank-you-background.jpg");
-        background-size: cover;
-        background-position: 20% 70%;
-        max-height: 800px;
-        overflow: hidden;
+        height: 800px;
+        background-color: #e0882680;
+        max-height: 1200px;
         flex-grow: 1;
-        margin-bottom: 1em;
     }
 
 }
@@ -530,6 +530,38 @@ main {
     .m-d.expand-list {
         margin: 0 0.5em;
         padding: 0;
+    }
+
+    /* THANK YOU PAGE (CONTACT FORM MESSAGE CONFIRMATION) */
+    #thanks-box {
+        background-color: #FFFFFF;
+        margin: 50px;
+        padding: 50px;
+        border: 1px solid #000000;
+        box-shadow: 5px 5px 12px #737373;
+        border-radius: 5px;
+    }
+
+    #thanks-message {
+        font-family: "Montserrat", sans-serif;
+        font-weight: 400;
+        font-size: 0.8em;
+        letter-spacing: 0.7px;
+        line-height: 20px;
+        color: #000000;
+        text-align: center;
+        margin: 5px;
+    }
+
+    #thank-you-page {
+        height: 800px;
+        background-color: #e0882680;
+        max-height: 1200px;
+        flex-grow: 1;
+    }
+
+    #thanks-message img {
+        padding: 10px;
     }
 }
 
@@ -602,19 +634,19 @@ main {
 
     /* THANK YOU PAGE */
     #thank-you-page {
-        background-position: center;
-        position: relative;
-        max-height: auto;
-        overflow: scroll;
+        height: 800px;
+        background-color: #e0882680;
+        max-height: 1200px;
+        flex-grow: 1;
     }
-
+    
     #thanks-box {
         background-color: #FFFFFF;
-        max-width: 25%;
-        position: absolute;
-        left: 47%;
-        top: 22%;
+        margin: 50px;
+        padding: 50px;
         border: 1px solid #000000;
+        box-shadow: 5px 5px 12px #737373;
+        border-radius: 5px;
     }
     
     #thanks-message {
@@ -710,60 +742,75 @@ main {
         transition: all 0.2s linear;
     }
 
-        /* THANK YOU PAGE */
-        #thank-you-page {
-            background-position: center;
-            position: relative;
-            max-height: auto;
-            overflow: scroll;
-        }
+    /* THANK YOU PAGE */
+    #thanks-box {
+        background-color: #FFFFFF;
+        margin: 60px;
+        padding: 50px;
+        border: 1px solid #000000;
+        box-shadow: 5px 5px 12px #737373;
+        border-radius: 5px;
+    }
     
-        #thanks-box {
-            background-color: #FFFFFF;
-            max-width: 30%;
-            position: absolute;
-            left: 42%;
-            top: 26%;
-            border: 2px solid #000000;
-        }
-        
-        #thanks-message {
-            font-family: "Montserrat", sans-serif;
-            font-weight: 400;
-            font-size: 1em;
-            letter-spacing: 0.7px;
-            margin: 10px;
-            line-height: 27px;
-            color: #000000;
-            text-align: center;
-            padding: 2px 4px;
-        }
+    #thanks-message {
+        font-family: "Montserrat", sans-serif;
+        font-weight: 400;
+        font-size: 1em;
+        letter-spacing: 0.7px;
+        margin: 10px;
+        line-height: 25px;
+        color: #000000;
+        text-align: center;
+    }
+
+    #thanks-message img {
+        padding: 10px;
+    }
 }
 
 /* MEDIA QUERY - DESKTOP SCREENS (1024px and larger */
 @media screen and (min-width:1024px) {
     
-        /* THANK YOU PAGE */
-    
-        #thanks-box {
+    /* THANK YOU PAGE */
+    #thank-you-page {
+        height: 800px;
+        background-color: #e0882680;
+        max-height: 1200px;
+        flex-grow: 1;
+    }
+
+    #thanks-box {
+        background-color: #FFFFFF;
+        margin: 80px;
+        padding: 50px;
+        border: 1px solid #000000;
+        box-shadow: 5px 5px 12px #737373;
+        border-radius: 5px;
+    }
+
+        /*#thanks-box {
             background-color: #FFFFFF;
             max-width: 30%;
             position: absolute;
             left: 42%;
             top: 26%;
             border: 2px solid #000000;
-        }
+        }*/
         
-        #thanks-message {
-            font-family: "Montserrat", sans-serif;
-            font-weight: 400;
-            font-size: 1em;
-            letter-spacing: 0.7px;
-            margin: 10px;
-            line-height: 27px;
-            color: #000000;
-            text-align: center;
-            padding: 2px 4px;
+    #thanks-message {
+        font-family: "Montserrat", sans-serif;
+        font-weight: 400;
+        font-size: 1em;
+        letter-spacing: 0.7px;
+        margin: 10px;
+        line-height: 27px;
+        color: #000000;
+        text-align: center;
+        padding: 2px 4px;
+        }
+
+        #thanks-message img {
+            padding: 10px;
         }
     }
 
@@ -842,5 +889,47 @@ main {
 
     #text-input {
         width: 95%;
+    }
+
+    /* THANK YOU PAGE */
+    #thank-you-page {
+        height: 800px;
+        background-color: #e0882680;
+        max-height: 1200px;
+        flex-grow: 1;
+    }
+        
+    #thanks-box {
+        background-color: #FFFFFF;
+        margin: 90px;
+        padding: 50px;
+        border: 1px solid #000000;
+        box-shadow: 5px 5px 12px #737373;
+        border-radius: 5px;
+        }
+    
+            /*#thanks-box {
+                background-color: #FFFFFF;
+                max-width: 30%;
+                position: absolute;
+                left: 42%;
+                top: 26%;
+                border: 2px solid #000000;
+            }*/
+            
+    #thanks-message {
+        font-family: "Montserrat", sans-serif;
+        font-weight: 400;
+        font-size: 1.25em;
+        letter-spacing: 0.7px;
+        margin: 10px;
+        line-height: 27px;
+        color: #000000;
+        text-align: center;
+        padding: 2px 4px;
+    }
+
+    #thanks-message img {
+        padding: 10px;
     }
 }
