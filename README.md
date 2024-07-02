@@ -175,7 +175,15 @@ As a developer:
 
 ## **FEATURES**
 
-### **Navigation**
+### **Navigation Menu**
+
+At the top of the website, users will see the navigation bar menu with Kennet Shopping logo and navigation links to the Home, Shop, Visit and Contact Us pages. The navigation bar is responsive across all devices. The active page is highlighted with a semi-transparent orange colour, so that users are aware of what page they are currently browsing. Clicking on the Kennet Shopping square logo or title heading will redirect users back to the Home page.
+
+When browsing on mobile devices (up to 767px screen width), the navigation menu features a drop-down menu which is opened by clicking on the burger icon in the top right hand corner of the screen. Clicking the burger icon while the drop-down menu is open will close the menu. This is designed to maximum the small amount of screen size available to mobile users and ensure the user experience is not impeded by screen space being taken up where it is not necessary.
+
+Users viewing the site on tablets and desktop screens (over 768px width) will see the navigation menu displayed at the top centre of the screen, with navigation links arranged horizontally. Hovering the cursor over any of the non-active page navigation links will cause the link to highlight in a semi-transparent orange. 
+
+![NavMenuScreenshot](assets/images/screenshots/header-nav-menu.png)
 
 ### **Footer**
 
