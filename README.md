@@ -125,7 +125,6 @@ All fonts used throughout the application were sourced from [Google Fonts](https
 ![BarlowCondensedFont](assets/images/google-fonts-barlow-condensed-sample-screenshot.png)
 <br><br>
 
-
 #### **'Montserrat' Font**
 - Used for: all other text within application
 -  The minimalist typeface of the Montserrat font family provides a blend of modernity and accessibility that appeals to a broad demographic of users to the Kennet Shopping site. This sans-serif font family exudes a clean, contemporary aesthetic and its geometric simplicity and balanced letterforms are visually appealing, evoking a sense of fun and dynamism. Montserrat's design also ensures high readability, with distinct characters and ample spacing that enhance legibility, particularly for users with vision issues. This makes it an accessible choice that maintains a high contrast level against various backgrounds, ensuring that information is clear and easy to read for everyone. 
@@ -133,7 +132,6 @@ All fonts used throughout the application were sourced from [Google Fonts](https
 
 ![MontserratFont](assets/images/google-fonts-montserrat-sample-screenshot.png)
 <br><br>
-
 
 <hr>
 
@@ -155,7 +153,6 @@ As a new site user:
 As a developer: 
 - I want to access a README file so that I can understand the scope and purpose of the project and locate essential information regarding the website
 - I want to access deployment information so I can follow step-by-step instructions on how to deploy the project
-
 
 ### **Wireframes**
 
@@ -221,6 +218,16 @@ Once the user sucessfully submits the contact form, they will be redirected to t
 ![ThankYouPageScreenshot](assets/images/screenshots/screenshot-thankyou.png)
 
 ### **Footer**
+
+The footer consists of four responsive column sections ('Find Us', 'Get In Touch', 'Links' and 'Follow Us') which are able to align horizontally or stack on top of one another depending on the width of the users screen.
+
+The four column headings feature the same hover effect used in the 'Contact Us' page, whereby the text gently jumps to the right when hovered over. Column heading names were chosen to give users a clear call-to-action relating to each section, providing unambigious information and hyperlinks which allow users to connect with Kennet Shopping and their local community.
+
+Each icon within the 'Find Us' and 'Get In Touch' sections are electric blue in colour, to add a modern, yet fun accent colour which is also featured in the site colour palette. The social icons beneath the 'Follow Us' sections are white, to highlight them as social media page links and differentiate them from the purely illustrative blue icons. The footer touch targets have been sized and spaced to ensure they meet W3C Web Accessibility Initiative (WAI) standards. All social media links open in a new tab, which enables users to easily return to their browsing location on the site.
+
+Page links are also featured in the footer to give users a quick solution for navigating the site, whether they are near the top of the page or the bottom. Under the footer is the copyright text '2024 Kennet Shopping' which indicates to users that the site is being updated on a regular basis.
+
+![FooterScreenshot](assets/images/screenshots/footer-screenshots.png)
 
 ### **Home Page**
 
