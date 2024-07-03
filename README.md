@@ -251,6 +251,7 @@ Page links are also featured in the footer to give users a quick solution for na
 | All    | Header nav menu   | 'Visit'                                 | Click on link                                  | Redirects user to 'Visit' page                     | Pass   |
 | All    | Header nav menu   | 'Contact Us'                            | Click on link                                  | Redirects user to 'Contact us' page                | Pass   |
 | Home   |  Main             | Hero image                              | N/A                                            | Adjusts responsively according to user screen  size | Pass   |
+| Home   |  Section             | Three column sections                              | N/A                                            | Adjusts responsively according to user screen  size | Pass   |
 | Home   |  Main		     | 'Shop' H2 heading (Column 1 section)    | Click on H2 text                               | Redirects user to 'Shop' page                      | Pass   |
 | Home   |  Main	         | 'Shop' icon (Column 1 section)  		   | Click on icon	                                | Redirects user to 'Shop' page                      | Pass   |
 | Home   |  Main	         | 'Visit' H2 heading (Column 2 section)   | Click on H2 text                               | Redirects user to 'Visit' page                     | Pass   |
