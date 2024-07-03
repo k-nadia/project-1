@@ -374,13 +374,6 @@ main {
 }
 
 /* FOOTER */
-/*footer {
-    position: relative;
-    width: 100%;
-    height: auto;
-    margin-top: auto;
-    background-color: #e0882680;
-    padding: 0.5em 1rem;*/
 
 .row {
     display: flex;
@@ -804,15 +797,6 @@ main {
         box-shadow: 5px 5px 12px #737373;
         border-radius: 5px;
     }
-
-        /*#thanks-box {
-            background-color: #FFFFFF;
-            max-width: 30%;
-            position: absolute;
-            left: 42%;
-            top: 26%;
-            border: 2px solid #000000;
-        }*/
         
     #thanks-message {
         font-family: "Montserrat", sans-serif;
@@ -924,15 +908,6 @@ main {
         box-shadow: 5px 5px 12px #737373;
         border-radius: 5px;
         }
-    
-            /*#thanks-box {
-                background-color: #FFFFFF;
-                max-width: 30%;
-                position: absolute;
-                left: 42%;
-                top: 26%;
-                border: 2px solid #000000;
-            }*/
             
     #thanks-message {
         font-family: "Montserrat", sans-serif;
