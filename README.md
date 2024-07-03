@@ -201,11 +201,15 @@ All form fields, as well as the submit button, have the same hover effect featur
 
 The background image for the contact form shows a woman using her phone, which echoes the communicative nature of this particular page. The image is modern, bold and features colours from the site colour palette.
 
-Once the user sucessfully submits the contact form, they will be redirected to the 'Thank You confirmation page, which confirms successful receipt of their message.
-
 ![ContactUsScreenshotOne](assets/images/screenshots/screenshot-contactus-1.png)
 
 ![ContactUsScreenshotTwo](assets/images/screenshots/screenshot-contactus-2.png)
+
+### **'Thank You' Page**
+
+Once the user sucessfully submits the contact form, they will be redirected to the 'Thank You confirmation page, which confirms successful receipt of their message.
+
+![ThankYouPageScreenshot](assets/images/screenshots/screenshot-thankyou.png)
 
 ### **Footer**
 
