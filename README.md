@@ -193,6 +193,9 @@ Below the header navigation menu on the Home page is the hero image. The image i
 
 ### **'Shop' Page**
 
+The 'Shop page features an accordian expand/collapse list which contains details of each individual store, grouped by store category. Once users click on a particular shop section, the individual listing will expand below to reveal the store description, opening hours and telephone contact number. When the top of the section is clicked again, the listing will collapse upwards to it's original display. 
+
+The accordian list is responsive across all screensizes and this list type was chosen in particular to be able to display large amounts of information on mobile screens, while only showing users the information they want to find out about. The list headings are highlighted in colours from the site's colour palette, to create an element of child-like fun and whimsy.
 
 ![ShopPageScreenshot](assets/images/screenshots/screenshot-shop-1.png)
 
