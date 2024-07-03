@@ -632,7 +632,7 @@ main {
 
     /* CONTACT FORM */
     #contact-section {
-        background-image: url("../images/contact-form-image.jpg);
+        background-image: url("../images/contact-form-image.jpg");
         background-position: center;
         position: relative;
     }
