@@ -198,7 +198,6 @@ The 'Shop page features an accordian expand/collapse list which contains details
 The accordian list is responsive across all screensizes and this list type was chosen in particular to be able to display large amounts of information on mobile screens, while only showing users the information they want to find out about. The list headings are highlighted in colours from the site's colour palette, to create an element of child-like fun and whimsy.
 
 ![ShopPageScreenshot](assets/images/screenshots/screenshot-shop-1.png)
-
 ![ShopPageScreenshot](assets/images/screenshots/screenshot-shop-2.png)
 
 ### **'Contact Us' Page**
