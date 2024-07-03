@@ -191,6 +191,13 @@ Below the header navigation menu on the Home page is the hero image. The image i
 
 ![HeroImageScreenshot](assets/images/screenshots/hero-image-screenshots.png)
 
+### **'Shop' Page**
+
+
+![ShopPageScreenshot](assets/images/screenshots/screenshot-shop-1.png)
+
+![ShopPageScreenshot](assets/images/screenshots/shop-screenshot-2.png)
+
 ### **'Contact Us' Page**
 
 This page enables users to communicate with Kennet Shopping management via a contact form. The form adapts responsively to all screen sizes, ensuring that the form function is user friendly and can be seen clearly across mobile, tablet and desktop screens. 
