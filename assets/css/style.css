@@ -201,6 +201,10 @@ main {
     padding: 1rem;
 }
 
+section #icon {
+    font-size: 1.6rem;
+}
+
 /* CONTACT US PAGE */
 #contact-heading {
     font-family: "Montserrat", sans-serif;
