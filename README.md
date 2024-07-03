@@ -185,11 +185,27 @@ Users viewing the site on tablets and desktop screens (over 768px width) will se
 
 ![NavMenuScreenshot](assets/images/screenshots/header-nav-menu.png)
 
-### **Home Page Hero Image**
+### **'Home' Page Hero Image**
 
 Below the header navigation menu on the Home page is the hero image. The image is responsive and adapts to all screen sizes, without distorting the image. The image reflects the family-friendly ethos of the Kennet Shopping centre and features a range of different bright colours, thus complementing the multi-coloured Kennet Shopping logo and site colour palette.
 
 ![HeroImageScreenshot](assets/images/screenshots/hero-image-screenshots.png)
+
+### **'Contact Us' Page**
+
+This page enables users to communicate with Kennet Shopping management via a contact form. The form adapts responsively to all screen sizes, ensuring that the form function is user friendly and can be seen clearly across mobile, tablet and desktop screens. 
+
+The contact form fields are: First Name, Last Name, Email Address and Your Message. All form fields are required by the user in order to submit the form. If any of the fields are left blank when the user clicks the 'Send Message' button, the form will not submit and a message will flag up on the screen which says 'Please fill this field' next to an orange exclamation mark. 
+
+All form fields, as well as the submit button, have the same hover effect featured on the footer links, whereby hover action will make the field move gently to the right. 
+
+The background image for the contact form shows a woman using her phone, which echoes the communicative nature of this particular page. The image is modern, bold and features colours from the site colour palette.
+
+Once the user sucessfully submits the contact form, they will be redirected to the 'Thank You confirmation page, which confirms successful receipt of their message.
+
+![ContactUsScreenshotOne](assets/images/screenshots/screenshot-contactus-1.png)
+
+![ContactUsScreenshotTwo](assets/images/screenshots/screenshot-contactus-2.png)
 
 ### **Footer**
 
