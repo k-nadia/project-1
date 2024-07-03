@@ -456,6 +456,15 @@ main {
     font-size: 2em;
 }
 
+/* COPYRIGHT TEXT */
+.copyright-text {
+    text-align: left;
+    background-color: #303030;
+    color: #FFFFFF;
+    font-size: 11px;
+    padding: 5px 5px;
+}
+
 /* MEDIA QUERY - SMALLER MOBILE SCREENS (max width: 412px) */
 @media screen and (max-width:412px) {
 
