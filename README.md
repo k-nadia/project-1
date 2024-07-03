@@ -199,7 +199,7 @@ The accordian list is responsive across all screensizes and this list type was c
 
 ![ShopPageScreenshot](assets/images/screenshots/screenshot-shop-1.png)
 
-![ShopPageScreenshot](assets/images/screenshots/shop-screenshot-2.png)
+![ShopPageScreenshot](assets/images/screenshots/screenshot-shop-2.png)
 
 ### **'Contact Us' Page**
 
