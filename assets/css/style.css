@@ -173,11 +173,11 @@ main {
 }
 
 .three-equal-columns h2 {
-    font-size: 18px;
+    font-size: 24px;
     color: #000000;
     font-family: 'Montserrat', sans-serif;
     letter-spacing: 2.35px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     text-align: center;
     position: relative;
 }
@@ -191,7 +191,7 @@ main {
 .three-equal-columns a {
     color: #000000;
     text-align: center;
-    font-size: 14px;
+    font-size: 1.4rem;
     margin-right: 10px;
     padding-right: 10px;
 }
