@@ -165,6 +165,7 @@ main {
 
 .section ul {
     list-style: none;
+    text-align: center;
 }
 
 .section li {
@@ -177,16 +178,19 @@ main {
     font-family: 'Montserrat', sans-serif;
     letter-spacing: 2.35px;
     margin-bottom: 20px;
+    text-align: center;
     position: relative;
 }
 
 .three-equal-columns span {
     font-size: 14px;
     color: #000000 !important;
+    text-align: center;
 }
 
 .three-equal-columns a {
     color: #000000;
+    text-align: center;
     font-size: 14px;
     margin-right: 10px;
     padding-right: 10px;
