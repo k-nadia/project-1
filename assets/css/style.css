@@ -560,6 +560,10 @@ section #icon {
     .footer-column {
         width: 100%;
     }
+
+    .three-equal-columns {
+        width: 100%;
+    }
 }
 
 /* MEDIA QUERY - MOBILE SCREENS (max width 767px) */
