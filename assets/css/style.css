@@ -524,14 +524,14 @@ main {
         padding: 0;
     }
 
-        /* CONTACT US PAGE */
-        #contact-section {
-            background-image: url("../images/contact-form-image-mobile.jpg");
-            background-size: cover;
-            background-position: 40%;
-            padding: 1em 1em 1em 1em;
-            flex-grow: 1;
-            }
+    /* CONTACT US PAGE */
+    #contact-section {
+        background-image: url("../images/contact-form-image-mobile.jpg");
+        background-size: cover;
+        background-position: 40%;
+        padding: 1em 1em 1em 1em;
+        flex-grow: 1;
+    }
 
     /* THANK YOU PAGE (CONTACT FORM MESSAGE CONFIRMATION) */
     #thanks-box {
