@@ -452,7 +452,7 @@ main {
     font-size: 2em;
 }
 
-/*MEDIA QUERY - SMALLER MOBILE SCREENS (max width: 412px) */
+/* MEDIA QUERY - SMALLER MOBILE SCREENS (max width: 412px) */
 @media screen and (max-width:412px) {
 
     /* CONTACT US PAGE */
@@ -492,6 +492,15 @@ main {
         flex-grow: 1;
     }
 
+}
+
+/* MEDIA QUERY - MEDIUM MOBILE SCREENS (max width: 574px) */
+@media screen and (max-width:574px) {
+    
+    .footer-column {
+        width: 66.66%;
+        margin-bottom: 40px;
+    }
 }
 
 /* MEDIA QUERY - MOBILE SCREENS (max width 767px) */
@@ -563,6 +572,11 @@ main {
 
     #thanks-message img {
         padding: 10px;
+    }
+
+    .footer-column {
+        width: 66.66%;
+        margin-bottom: 40px;
     }
 }
 
