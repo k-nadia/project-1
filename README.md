@@ -335,13 +335,21 @@ Google Chrome Dev Tools Lighthouse Testing Results:
 <br><br>
 ![ShopLighthouseTestDesktop](./assets/images/screenshots/lighthouse-shop-desktop.JPG)
 
+<b>Contact Us Page (mobile)</b>
+<br><br>
+![ShopLighthouseTestMobile](./assets/images/screenshots/lighthouse-contactus-mobile.JPG)
+
+<b>Contact Us Page (desktop)</b>
+<br><br>
+![ShopLighthouseTestDesktop](./assets/images/screenshots/lighthouse-contacts-desktop.JPG)
+
 <b>Thank You Page (mobile)</b>
 <br><br>
-![ShopLighthouseTestMobile](./assets/images/screenshots/lighthouse-thankyou-mobile.JPG)
+![ThankYouLighthouseTestMobile](./assets/images/screenshots/lighthouse-thankyou-mobile.JPG)
 
 <b>Thank You Page (desktop)</b>
 <br><br>
-![ShopLighthouseTestDesktop](./assets/images/screenshots/lighthouse-thankyou-desktop.JPG)
+![ThankYouLighthouseTestDesktop](./assets/images/screenshots/lighthouse-thankyou-desktop.JPG)
 
 - HTML - 
 - CSS -
