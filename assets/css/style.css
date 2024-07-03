@@ -451,7 +451,7 @@ section #icon {
     padding: 5px 15px;
 }
 
-.footer-column h4 {
+.footer-column h3 {
     font-size: 18px;
     color: #FFFFFF;
     font-family: 'Montserrat', sans-serif;
@@ -460,7 +460,7 @@ section #icon {
     position: relative;
 }
 
-.footer-column h4::before {
+.footer-column h3::before {
     content: '';
     height: 3px;
     width: 15%;
