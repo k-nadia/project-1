@@ -1,12 +1,4 @@
-/* GOOGLE FONTS IMPORT */
 
-/* BARLOW CONDENSED - FONT FAMILY */
-
-/*@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@300;400;500;600&display=swap');*/
-
-/* MONTSERRAT - FONT FAMILY */
-
-/*@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');*/
 
 /* UNIVERSAL SELECTOR USED TO OVERRIDE DEFAULT STYLES */
 * {
@@ -133,8 +125,6 @@ a {
 /* MAIN CONTENT */
 main {
     background-color: #ffffff;
-    /*display: flex;
-    flex-direction: column;*/
     flex-grow: 1;
     margin-top: 43px;
 }
