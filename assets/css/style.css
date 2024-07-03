@@ -440,6 +440,10 @@ main {
     color:#66E6E6;
 }
 
+.footer-column #overflow {
+    overflow-wrap: break-word;
+}
+
 /* SOCIAL MEDIA LINKS */
 #socials {
     display: flex;
