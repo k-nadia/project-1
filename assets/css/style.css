@@ -137,25 +137,59 @@ main {
 }
 
 /* THREE COLUMN SECTION */
+
+.section {
+    background-color: #FFFFFF;
+    padding: 35px;
+}
+
+.s-container {
+    max-width: 1400px;
+    background-color: #e0882680;
+    margin: 5px;
+}
+
+.s-row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
 .three-equal-columns {
     width: 33.33%;
-    height: 200px;
-    padding: 10px;
-    margin: 1em;
-    background-color: #e0882670;
-    text-align: center;
+    padding: 5px 15px;
+    border: 5px solid #fff;
+    padding: 0.5rem;
+    flex-grow: 1;
+    color: #000000;
 }
 
-.container {
-    display: flex;
+.section ul {
+    list-style: none;
 }
 
-.three-equal-columns p {
-    font-size: 0.75em;
+.section li {
+    padding: 5px;
+}
+
+.three-equal-columns h2 {
+    font-size: 18px;
+    color: #000000;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 2.35px;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.three-equal-columns span {
+    font-size: 14px;
+    color: #000000 !important;
 }
 
 .three-equal-columns a {
     color: #000000;
+    font-size: 14px;
+    margin-right: 10px;
+    padding-right: 10px;
 }
 
 /* CONTACT US PAGE */
