@@ -196,6 +196,11 @@ main {
     padding-right: 10px;
 }
 
+.three-equal-columns p {
+    font-size: 1rem;
+    padding: 1rem;
+}
+
 /* CONTACT US PAGE */
 #contact-heading {
     font-family: "Montserrat", sans-serif;
