@@ -237,7 +237,7 @@ Once the user sucessfully submits the contact form, they will be redirected to t
 
 ### **'Privacy Policy' Page**
 
-The link to the Privacy Policy page can be found within the footer of each page. The Privacy Policy outlines how user data is collected, used, stored, and protected, providing visitors with essential information about their privacy rights and the measures in place to safeguard their personal information. This not only helps comply with legal requirements and regulations, such as GDPR and CCPA, but also fosters confidence among users by demonstrating a commitment to their privacy and security. 
+The link to the Privacy Policy page can be found within the footer of each page. The Privacy Policy outlines how user data is collected, used, stored, and protected, providing visitors with essential information about their privacy rights and the measures in place to safeguard their personal information. This not only helps comply with legal requirements and regulations, such as GDPR, but also fosters confidence among users by demonstrating a commitment to their privacy and security. 
 
 The privacy policy adjusts responsively according to user screen size by reducing margin values relative to descending screen size. This means that as less screen space is available,  the text content uses a larger proportion of the screen in order to most efficiently utilise the screen real estate available.
 
