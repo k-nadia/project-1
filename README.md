@@ -182,6 +182,18 @@ Users viewing the site on tablets and desktop screens (over 768px width) will se
 
 ![NavMenuScreenshot](assets/images/screenshots/header-nav-menu.png)
 
+### **Footer**
+
+The footer consists of four responsive column sections ('Find Us', 'Get In Touch', 'Links' and 'Follow Us') which are able to align horizontally or stack on top of one another depending on the width of the users screen.
+
+The four column headings feature the same hover effect used in the 'Contact Us' page, whereby the text gently jumps to the right when hovered over. Column heading names were chosen to give users a clear call-to-action relating to each section, providing unambigious information and hyperlinks which allow users to connect with Kennet Shopping and their local community.
+
+Each icon within the 'Find Us' and 'Get In Touch' sections are electric blue in colour, to add a modern, yet fun accent colour which is also featured in the site colour palette. The social icons beneath the 'Follow Us' sections are white, to highlight them as social media page links and differentiate them from the purely illustrative blue icons. The footer touch targets have been sized and spaced to ensure they meet W3C Web Accessibility Initiative (WAI) standards. All social media links open in a new tab, which enables users to easily return to their browsing location on the site.
+
+Page links are also featured in the footer to give users a quick solution for navigating the site, whether they are near the top of the page or the bottom. Under the footer is the copyright text '2024 Kennet Shopping' which indicates to users that the site is being updated on a regular basis.
+
+![FooterScreenshot](assets/images/screenshots/footer-screenshots.png)
+
 ### **Home Page - Hero Image**
 
 Below the header navigation menu on the Home page is the hero image. The image is responsive and adapts to all screen sizes, without distorting the image. The image reflects the family-friendly ethos of the Kennet Shopping centre and features a range of different bright colours, thus complementing the multi-coloured Kennet Shopping logo and site colour palette.
@@ -223,20 +235,13 @@ Once the user sucessfully submits the contact form, they will be redirected to t
 
 ![ThankYouPageScreenshot](assets/images/screenshots/screenshot-thankyou.png)
 
-### **Footer**
+### **'Privacy Policy' Page**
 
-The footer consists of four responsive column sections ('Find Us', 'Get In Touch', 'Links' and 'Follow Us') which are able to align horizontally or stack on top of one another depending on the width of the users screen.
+The link to the Privacy Policy page can be found within the footer of each page. The Privacy Policy outlines how user data is collected, used, stored, and protected, providing visitors with essential information about their privacy rights and the measures in place to safeguard their personal information. This not only helps comply with legal requirements and regulations, such as GDPR and CCPA, but also fosters confidence among users by demonstrating a commitment to their privacy and security. 
 
-The four column headings feature the same hover effect used in the 'Contact Us' page, whereby the text gently jumps to the right when hovered over. Column heading names were chosen to give users a clear call-to-action relating to each section, providing unambigious information and hyperlinks which allow users to connect with Kennet Shopping and their local community.
+The privacy policy adjusts responsively according to user screen size by reducing margin values relative to descending screen size. This means that as less screen space is available,  the text content uses a larger proportion of the screen in order to most efficiently utilise the screen real estate available.
 
-Each icon within the 'Find Us' and 'Get In Touch' sections are electric blue in colour, to add a modern, yet fun accent colour which is also featured in the site colour palette. The social icons beneath the 'Follow Us' sections are white, to highlight them as social media page links and differentiate them from the purely illustrative blue icons. The footer touch targets have been sized and spaced to ensure they meet W3C Web Accessibility Initiative (WAI) standards. All social media links open in a new tab, which enables users to easily return to their browsing location on the site.
-
-Page links are also featured in the footer to give users a quick solution for navigating the site, whether they are near the top of the page or the bottom. Under the footer is the copyright text '2024 Kennet Shopping' which indicates to users that the site is being updated on a regular basis.
-
-![FooterScreenshot](assets/images/screenshots/footer-screenshots.png)
-
-### **Home Page**
-
+![PrivacyPolicyPageScreenshot](assets/images/screenshots/privacy-policy.png)
 <hr>
 
 ## **TESTING**
