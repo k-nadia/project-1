@@ -289,8 +289,10 @@ section #icon {
     padding: 4rem 7rem;
 }
 
-.privacy-policy h1 {
+.privacy-policy h1 h2 h3 {
     font-family: 'Montserrat', sans-serif;
+    text-align: left;
+    overflow-wrap: break-word;
 }
 
 .privacy-policy p {
@@ -588,7 +590,6 @@ section #icon {
     /* PRIVACY POLICY PAGE */
     .privacy-policy {
     padding: 0.5rem 0.5rem;
-    text-align: justify;
     }
 }
 
@@ -666,7 +667,6 @@ section #icon {
     /* PRIVACY POLICY PAGE */
     .privacy-policy {
         padding: 0.5rem 0.5rem;
-        text-align: justify;
     }
 
     .footer-column {
@@ -774,7 +774,6 @@ section #icon {
     /* PRIVACY POLICY PAGE */
     .privacy-policy {
         padding: 2rem 5rem;
-        text-align: justify;
         }
 }
 
