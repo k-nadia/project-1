@@ -285,6 +285,7 @@ Page links are also featured in the footer to give users a quick solution for na
 | Contact Us| Contact Form			 | Text input box                       | Hover over text input box | Text input box jumps slightly to right while cursor hovers over element     |Pass        |
 | Contact Us| Contact Form			 | Submit button                        | Hover over text input box | Text input box jumps slightly to right while cursor hovers over element     |Pass        |
 | Thank You| Main		 | Message receipt confirmation box                | N/A | Adjusts responsively according to user screen size     |Pass        |
+| Privacy Policy   |  Main       | Privacy Policy   | N/A                                     | Adjust responsively according to user screen size | Pass   |
 | All    |  Footer            | Footer column sections                     | N/A                                     | Adjust responsively according to user screen size
 | All	 | Footer            | Facebook Socials Icon                   | Click on icon                                  | Open Facebook page in a new tab                    | Pass   |
 | All	 | Footer            | Instagram Socials Icon                  | Click on icon                                  | Open Instagram page in a new tab                   | Pass   |
