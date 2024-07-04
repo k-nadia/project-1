@@ -557,6 +557,12 @@ section #icon {
 /* MEDIA QUERY - MEDIUM MOBILE SCREENS (max width: 574px) */
 @media screen and (max-width:574px) {
     
+    #hero-section {
+        height: 600px;
+        width: 100%;
+        background: url("../images/hero-image-mobile.jpg") no-repeat center center/cover;
+    }
+    
     .footer-column {
         width: 100%;
     }

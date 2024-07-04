@@ -365,6 +365,10 @@ I realised I needed to specify my style rule to only target icons within the 'co
 
 Google Chrome Dev Tools Lighthouse Testing Results:
 
+<b>Home Page (desktop)</b>
+<br><br>
+![HomeLighthouseTestDesktop](./assets/images/screenshots/lighthouse-home-desktop.png)
+
 <b>Shop Page (mobile)</b>
 <br><br>
 ![ShopLighthouseTestMobile](./assets/images/screenshots/lighthouse-shop-mobile.JPG)
