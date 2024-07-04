@@ -407,6 +407,14 @@ Google Chrome Dev Tools Lighthouse Testing Results:
 <br><br>
 ![ThankYouLighthouseTestDesktop](./assets/images/screenshots/lighthouse-thankyou-desktop.JPG)
 
+<b>Privacy Policy Page (mobile)</b>
+<br><br>
+![PrivacyPolicyLighthouseTestMobile](./assets/images/screenshots/lighthouse-pp-mobile.JPG)
+
+<b>Privacy Policy Page (desktop)</b>
+<br><br>
+![PrivacyPolicyLighthouseTestDesktop](./assets/images/screenshots/lighthouse-pp-desktop.JPG)
+
 
 ### **Unfixed Bugs**
 - Document any unfixed bugs here...
