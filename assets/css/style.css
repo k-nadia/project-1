@@ -284,6 +284,15 @@ section #icon {
     padding: 10px;
 }
 
+/* PRIVACY POLICY PAGE */
+.privacy-policy {
+    padding: 4rem 7rem;
+}
+
+.privacy-policy p {
+    font-size: 0.85rem;
+}
+
 /* EXPAND-COLLAPSE LIST (SHOP PAGE) */
 
 .shop-headings {
