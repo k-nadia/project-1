@@ -369,11 +369,18 @@ I realised I needed to specify my style rule to only target icons within the 'co
 
 ### **Validator Testing**
 
+- HTML - 
+- CSS -
+
 Google Chrome Dev Tools Lighthouse Testing Results:
+
+<b>Home Page (mobile)</b>
+<br><br>
+![HomeLighthouseTestMobile](./assets/images/screenshots/lighthouse-home-mobile.JPG)
 
 <b>Home Page (desktop)</b>
 <br><br>
-![HomeLighthouseTestDesktop](./assets/images/screenshots/lighthouse-home-desktop.png)
+![HomeLighthouseTestDesktop](./assets/images/screenshots/lighthouse-home-desktop.JPG)
 
 <b>Shop Page (mobile)</b>
 <br><br>
@@ -399,8 +406,6 @@ Google Chrome Dev Tools Lighthouse Testing Results:
 <br><br>
 ![ThankYouLighthouseTestDesktop](./assets/images/screenshots/lighthouse-thankyou-desktop.JPG)
 
-- HTML - 
-- CSS -
 
 ### **Unfixed Bugs**
 - Document any unfixed bugs here...
