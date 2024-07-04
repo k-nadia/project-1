@@ -287,6 +287,7 @@ section #icon {
 /* PRIVACY POLICY PAGE */
 .privacy-policy {
     padding: 4rem 7rem;
+    text-align: justify;
 }
 
 .privacy-policy p {
@@ -579,6 +580,12 @@ section #icon {
     .three-equal-columns {
         width: 100%;
     }
+
+    /* PRIVACY POLICY PAGE */
+    .privacy-policy {
+    padding: 0.5rem 0.5rem;
+    text-align: justify;
+    }
 }
 
 /* MEDIA QUERY - MOBILE SCREENS (max width 767px) */
@@ -650,6 +657,12 @@ section #icon {
 
     #thanks-message img {
         padding: 10px;
+    }
+
+    /* PRIVACY POLICY PAGE */
+    .privacy-policy {
+        padding: 0.5rem 0.5rem;
+        text-align: justify;
     }
 
     .footer-column {
@@ -753,6 +766,12 @@ section #icon {
         color: #000000;
         text-align: center;
     }
+
+    /* PRIVACY POLICY PAGE */
+    .privacy-policy {
+        padding: 2rem 5rem;
+        text-align: justify;
+        }
 }
 
 /* MEDIA QUERY - LAPTOPS & DESKTOPS (992px and larger) */
@@ -868,6 +887,12 @@ section #icon {
     #thanks-message img {
         padding: 10px;
     }
+
+    /* PRIVACY POLICY PAGE */
+    .privacy-policy {
+        padding: 3rem 6rem;
+        text-align: justify;
+    }
 }
 
 /* MEDIA QUERY - DESKTOP SCREENS (1024px and larger */
@@ -913,6 +938,12 @@ section #icon {
 
         #thanks-message img {
             padding: 10px;
+        }
+
+        /* PRIVACY POLICY PAGE */
+        .privacy-policy {
+        padding: 3rem 6rem;
+        text-align: justify;
         }
     }
 
@@ -1024,5 +1055,11 @@ section #icon {
 
     #thanks-message img {
         padding: 10px;
-        }
+    }
+
+    /* PRIVACY POLICY PAGE */
+        .privacy-policy {
+        padding: 3rem 6rem;
+        text-align: justify;
+    }
 }
