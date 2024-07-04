@@ -498,6 +498,8 @@ Expand/Collapse List starting code from @gregsaxton at copepen.io.
 
 - [![Font Awesome](https://img.shields.io/badge/Font%20Awesome-grey?)](https://fontawesome.com/) - Font Awesome is an icon library and toolkit. Font Awesome was used to source all icons used in this project.
 
+- [![Privacy Policy Generator](https://img.shields.io/badge/Privacy%20Policy%20Generator-grey)](https://www.privacypolicygenerator.info/) - Tool used for generating website and application privacy policies.
+
 ### **Image Credits**
 
 *Image Usage - Hero Image (Home Page)*
