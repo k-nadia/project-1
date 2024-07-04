@@ -290,6 +290,10 @@ section #icon {
     text-align: justify;
 }
 
+.privacy-policy h1 {
+    font-family: 'Montserrat', sans-serif;
+}
+
 .privacy-policy p {
     font-size: 0.85rem;
 }
