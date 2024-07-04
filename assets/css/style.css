@@ -144,7 +144,7 @@ main {
 }
 
 .s-container {
-    max-width: 1400px;
+    max-width: 1900px;
     background-color: #e0882680;
     margin: 5px;
 }
@@ -863,6 +863,15 @@ section #icon {
 
 /* MEDIA QUERY - DESKTOP SCREENS (1024px and larger */
 @media screen and (min-width:1024px) {
+
+    .three-equal-columns {
+        width: 33.33%;
+        padding: 5px 15px;
+        border: 5px solid #fff;
+        padding: 0.5rem;
+        flex-grow: 1;
+        color: #000000;
+    }
     
     /* THANK YOU PAGE */
     #thank-you-page {
