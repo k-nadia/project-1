@@ -290,6 +290,10 @@ section #icon {
     overflow: hidden;
 }
 
+#open-hours {
+    background: url('../images/open-hours-image.jpg') no-repeat center/cover;
+}
+
 /* CONTACT US PAGE */
 #contact-heading {
     font-family: "Montserrat", sans-serif;
