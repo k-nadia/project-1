@@ -206,6 +206,40 @@ section #icon {
 }
 
 /* VISIT US PAGE */
+
+.intro-text h1 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 1.5em;
+    padding: 1em 1em 4px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.underline {
+    text-decoration: none; 
+    position: relative; 
+}   
+
+.underline:after {
+    position: absolute;
+    content: '';
+    height: 5px;
+    bottom: -4px; 
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    width: 3%;
+    background: #A12F84;
+}
+
+.intro-text p {
+    text-align: center;
+    padding: 2em;
+}
+
 .section-1 {
     background-color: #FFFFFF;
     padding: 35px;
