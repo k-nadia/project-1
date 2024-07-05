@@ -674,6 +674,15 @@ section #icon {
         padding: 0;
     }
 
+    /* VISIT US PAGE */
+    .box-1 {
+        width: 100%;
+        height: 35rem;
+        border: 10px solid #fff;
+        flex-grow: 1;
+        color: #000000;
+    }
+
     /* CONTACT US PAGE */
     #contact-section {
         background-image: url("../images/contact-form-image-mobile.jpg");
