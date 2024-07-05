@@ -487,14 +487,20 @@ Clone this project using the following steps:
 ## **CREDITS**
 
 ### **Content Sources**
+
+All text content has been written by myself.
+
+---
+
 Expand/Collapse List starting code from @gregsaxton at copepen.io.
 <br>
  Designer's CodePen profile link - [Click here](https://codepen.io/gregsaxton)
- <br>
+ 
+ ---
 
- Starting steps and a few lines of code from the Code Institute's Love Running walkthrough project/lesson.
- <br>
- Code Institute website link - [Click here](https://codeinstitute.net) 
+Starting steps and a few lines of code from the Code Institute's Love Running walkthrough project/lesson.
+<br>
+Code Institute website link - [Click here](https://codeinstitute.net)<br> 
 
 ### **Content Generators**
 -  [![Favicon.io](https://img.shields.io/badge/Favicon.io-grey?)](https://favicon.io/) - A favicon.ico icon tool used to generate or download favicon icons in all required sizes. Favicon.io was used to generate favicon.ico file from the Kennet logo JPEG image.
@@ -504,6 +510,8 @@ Expand/Collapse List starting code from @gregsaxton at copepen.io.
 - [![Google Fonts](https://img.shields.io/badge/Google_Fonts-grey?logo=google-fonts&logoColor=white)](https://fonts.google.com/) - Google Fonts is a library of free, open-source fonts available to enhance web design. Google Fonts was used to import all fonts used in the project.
 
 - [![Font Awesome](https://img.shields.io/badge/Font%20Awesome-grey?)](https://fontawesome.com/) - Font Awesome is an icon library and toolkit. Font Awesome was used to source all icons used in this project.
+
+- [![Maps.ie](https://img.shields.io/badge/Maps.ie-grey?)](https://www.maps.ie/) - Maps.ie offers a iframes map generator tool used to create and embed responsive Google Maps.
 
 - [![Privacy Policy Generator](https://img.shields.io/badge/Privacy%20Policy%20Generator-grey)](https://www.privacypolicygenerator.info/) - Tool used for generating website and application privacy policies.
 
@@ -550,3 +558,7 @@ Expand/Collapse List starting code from @gregsaxton at copepen.io.
 <br>
 ![ThumbnailLogoImage](./assets/images/thumbnails/thumbnail-logo.png)
 <br>
+
+### **Special Thanks**
+
+Special thanks to my mentor Diego Pupato for your guidance and support throughout this project.
