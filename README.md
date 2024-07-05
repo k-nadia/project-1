@@ -529,6 +529,17 @@ Expand/Collapse List starting code from @gregsaxton at copepen.io.
 ![ThumbnailContactImage](./assets/images/thumbnails/thumbnail-contact-image.png)
 <br>
 
+*Image Usage - Div Image (Visit Us Page)*
+<br>
+*Photographer - Deeagreez*
+<br>
+*Photo Library - iStock (stock photo ID: 1202734952)*
+<br>
+*Original Photo Link - [Click Here](https://www.istockphoto.com/photo/full-size-photo-of-positive-emotions-girl-tourist-have-shopping-weekends-hold-many-gm1202734952-345417835?clarity=false#)*
+<br>
+![ThumbnailVisitImage](./assets/images/thumbnails/visit-thumbnail.png)
+<br>
+
 *Image Usage - Kennet Logo (Header & Favicon)*
 <br>
 *Designer - Unknown*
