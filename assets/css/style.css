@@ -212,8 +212,8 @@ section #icon {
 }
 
 .container-1 {
-    max-width: 1900px;
-    background-color: #e0882680;
+    max-width: 1800px;
+    background-color: none;
     margin: 5px;
 }
 
@@ -224,7 +224,7 @@ section #icon {
 
 .box-1 {
     width: 50%;
-    height: 30rem;
+    height: 35rem;
     border: 10px solid #fff;
     flex-grow: 1;
     color: #000000;
