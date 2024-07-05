@@ -142,10 +142,9 @@ All fonts used throughout the application were sourced from [Google Fonts](https
 As a new site user:
 - I want a navigation menu on every page so I can navigate to other pages/sections with ease
 - I can browse a list of shops/businesses based on specific categories so I can find ones that fit my needs as a customer
-- I can view a ‘How To Find Us’ section with Google Map function and public transport information so that I can easily plan my journey to Kennet Shopping 
+- I can view a ‘How To Find Us’ section with Google Map function so that I can easily plan my journey to Kennet Shopping 
 - I can find accessibility information for Kennet Shopping so I can navigate the shopping centre independently and know what accessible facilities are available to me
 - I can access up-to-date centre opening hours so I can plan when to visit Kennet Shopping
-- I can access comprehensive information on car parking options and charges so I estimate the cost for my visit
 - I want all external links to open to a new page tab so I can easily return to my browsing location on the original website
 - I can find the privacy policy so that I can understand how my personal data is being collected, used and protected
 - I can submit a contact form so I can communicate my query or message to the relevant department
