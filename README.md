@@ -478,9 +478,11 @@ Clone this project using the following steps:
 
 - [![W3C Markup Validator](https://img.shields.io/badge/W3C_Markup_Validator-grey?logo=html5&logoColor=white)](https://validator.w3.org/#validate_by_input) - The W3C Markup Validator is a tool used to check the validity and syntax of HTML code, ensuring compliance with web standards set by the World Wide Web Consortium (W3C). Import my html for validation.
 
-- [![Lighthouse](https://img.shields.io/badge/Lighthouse-grey?logo=google-chrome&logoColor=red)](https://developer.chrome.com/docs/lighthouse)- An open-source tool used for auditing web page quality, including performance, accessibility, SEO, and cross-browser testing. Check for validation.
+- [![Lighthouse](https://img.shields.io/badge/Lighthouse-grey?logo=google-chrome&logoColor=red)](https://developer.chrome.com/docs/lighthouse) - An open-source tool used for auditing web page quality, including performance, accessibility, SEO, and cross-browser testing. Check for validation.
 
 - [![Optimole](https://img.shields.io/badge/Optimole-grey?)](https://optimole.com/image-compressor/) - Optimole is an online image optimizer tool which reduces file size without losing image quality. This tool was used to optimize all images within the project for web.
+
+- ![Canva](https://img.shields.io/badge/Canva-grey.svg?style=for-the-badge&logo=Canva&logoColor=white) - A graphic design platform that provides online design and visual communication tools.
 
 ## **CREDITS**
 
