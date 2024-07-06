@@ -403,6 +403,14 @@ Google Chrome Dev Tools Lighthouse Testing Results:
 <br><br>
 ![ShopLighthouseTestDesktop](./assets/images/screenshots/lighthouse-contacts-desktop.JPG)
 
+<b>Visit Us Page (mobile)</b>
+<br><br>
+![VisitLighthouseMobile](./assets/images/screenshots/lighthouse-visit-mobile.png)
+
+<b>Visit Us Page (desktop)</b>
+<br><br>
+![VisitLighthouseDesktop](./assets/images/screenshots/lighthouse-visit-desktop.png)
+
 <b>Thank You Page (mobile)</b>
 <br><br>
 ![ThankYouLighthouseTestMobile](./assets/images/screenshots/lighthouse-thankyou-mobile.JPG)
