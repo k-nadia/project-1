@@ -301,12 +301,11 @@ section #icon {
 #hours div {
     color: #000000;
     background-color: rgba(255,255,255,0.65);
-    border: 2px solid #000000;
+    border: 2px solid #303086;
     padding: 15px;
     text-align: center;
     flex-basis: 200px;
     flex-grow: 1;
-
 }
 
 #open-hours h2 {
