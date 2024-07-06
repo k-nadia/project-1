@@ -52,6 +52,7 @@ Deployed website can be be found here: [Kennet Shopping](https://k-nadia.github.
 	- [Content Sources & Generators](#content-sources-and-generators)
     - [Image Sources](#images-sources)
 	- [Media Sources](#media-sources)
+	- [Special Thanks](#special-thanks)
     
 
 <br>
@@ -242,6 +243,10 @@ The privacy policy adjusts responsively according to user screen size by reducin
 
 ![PrivacyPolicyPageScreenshot](assets/images/screenshots/privacy-policy.png)
 <hr>
+
+### **Features to Implement in the Future**
+
+Additional features I would like to implement to this project would be a custom 404 page and public transport and car parking information on the Visit page.
 
 ## **TESTING**
 
