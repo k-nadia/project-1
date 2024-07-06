@@ -311,6 +311,27 @@ section #icon {
     padding: 0.75rem 1.5rem;
 }
 
+#accessible-toilets {
+    list-style: circle;
+    list-style-position: inside;
+}
+
+#accessibility {
+    size: 0.85rem;
+    margin: 0.2rem 2rem;
+    padding: 0 3rem 6rem 3rem;
+}
+
+#accessibility a {
+    color: #0070E0;
+    text-decoration: underline;
+}
+
+.box-1 p {
+    text-align: justify;
+    margin-top: 0.5rem;
+}
+
 /* CONTACT US PAGE */
 #contact-heading {
     font-family: "Montserrat", sans-serif;

@@ -421,7 +421,7 @@ Google Chrome Dev Tools Lighthouse Testing Results:
 
 
 ### **Unfixed Bugs**
-- Document any unfixed bugs here...
+- I was unable enable toggle function directly on accordion icons.
 
 <hr>
 
