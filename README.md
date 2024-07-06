@@ -379,9 +379,6 @@ I realised I needed to specify my style rule to only target icons within the 'co
 
 ### **Validator Testing**
 
-- HTML - 
-- CSS - There were no errors found when passing through official (Jigsaw) validator
-
 Google Chrome Dev Tools Lighthouse Testing Results:
 
 <b>Home Page (mobile)</b>
