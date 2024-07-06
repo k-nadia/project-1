@@ -26,7 +26,7 @@ Deployed website can be be found here: [Kennet Shopping](https://k-nadia.github.
 <br><br>
 
 <p align="center">
-<img src ="assets/images/am-i-responsive-placeholder-image.JPG" width="auto" height="auto" alt="AmIResponsive placeholder image showing the following viewports: desktop, laptop, tablet, mobile">
+<img src ="assets/images/screenshots/amiresponsive.png" width="auto" height="auto" alt="AmIResponsive placeholder image showing the following viewports: desktop, laptop, tablet, mobile">
 </p>
 
 # Table of Contents
@@ -380,7 +380,7 @@ I realised I needed to specify my style rule to only target icons within the 'co
 ### **Validator Testing**
 
 - HTML - 
-- CSS -
+- CSS - There were no errors found when passing through official (Jigsaw) validator
 
 Google Chrome Dev Tools Lighthouse Testing Results:
 
