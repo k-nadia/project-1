@@ -527,15 +527,15 @@ Code Institute website link - [Click here](https://codeinstitute.net)<br>
 ![ThumbnailHeroImage](./assets/images/thumbnails/thumbnail-hero-image.png)
 <br>
 
-*Image Usage - Contact Form Background Image*
+*Image Usage - Opening Hours Background Image*
 <br>
-*Photographer - Prostock-Studio*
+*Photographer - Kwangmoozaa*
 <br>
-*Photo Library - iStock (stock photo ID: 1256461818)*
+*Photo Library - iStock (stock photo ID: 1388469447)*
 <br>
-*Original Photo Link - [Click Here](https://www.istockphoto.com/photo/discount-app-smiling-black-woman-with-shopping-bags-using-smartphone-in-mall-gm1256461818-367896887?clarity=false)*
+*Original Photo Link - [Click Here](https://www.istockphoto.com/photo/abstract-blur-clothing-boutique-display-interior-of-shopping-mall-background-gm1388469447-446105141)*
 <br>
-![ThumbnailContactImage](./assets/images/thumbnails/thumbnail-contact-image.png)
+![ThumbnailContactImage](./assets/images/thumbnails/thumbnail-open-hours.png)
 <br>
 
 *Image Usage - Div Image (Visit Us Page)*
