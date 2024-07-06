@@ -218,6 +218,11 @@ section #icon {
     justify-content: center;
 }
 
+.intro-text p {
+    text-align: center;
+    padding: 1em;
+}
+
 .underline {
     text-decoration: none; 
     position: relative; 
@@ -285,15 +290,8 @@ section #icon {
     overflow: hidden;
 }
 
-/* VISIT PAGE */
-
-.intro-text p {
-    text-align: center;
-    padding: 1em;
-}
-
 #hours {
-    background: url('../images/open-hours-image.jpg') no-repeat center/cover;
+    background: url("../images/open-hours-image.jpg") no-repeat center/cover;
     display: flex;
     flex-wrap: wrap;
 }
@@ -457,7 +455,6 @@ section #icon {
 	height: auto;
 	max-height: 0;
 	max-width: 1500px;
-	/*        background: yellow;*/
 	overflow: hidden;
 	transform: translateY(20px);
 	transition: all 180ms ease-in-out 0ms;
